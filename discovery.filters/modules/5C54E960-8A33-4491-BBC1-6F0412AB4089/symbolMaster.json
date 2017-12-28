@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 482,
   "do_objectID": "5C54E960-8A33-4491-BBC1-6F0412AB4089",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 567,
     "width": 320,
-    "x": 4200,
-    "y": -658
+    "x": 1637,
+    "y": 83
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -50,10 +50,22 @@
     {
       "class": "symbolInstance",
       "id": "705E0310-F7C5-41CD-B80A-7C5B9124354B"
+    },
+    {
+      "class": "text",
+      "id": "D905FFEF-FA67-4317-BF79-2FC776934E70"
+    },
+    {
+      "class": "text",
+      "id": "1AFAC009-A643-482B-A1F5-E3DE59C895C5"
+    },
+    {
+      "class": "text",
+      "id": "114C1767-F1E2-44D3-96B6-531C77B32356"
     }
   ],
-  "name": "modules / search module",
-  "nameIsFixed": false,
+  "name": "modules / search module results",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

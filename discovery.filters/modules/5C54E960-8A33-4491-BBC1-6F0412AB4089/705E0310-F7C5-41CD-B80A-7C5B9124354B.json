@@ -31,8 +31,15 @@
   "name": "component / search / multi",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C3640C0B-D0D7-4FBE-BB01-59D2BF005D2C",
+      "overrideName": "5EA61B7A-D9BA-444B-88F5-8FE43A53A27F_stringValue",
+      "value": "el mozote"
+    }
   ],
   "overrides": {
+    "5EA61B7A-D9BA-444B-88F5-8FE43A53A27F": "el mozote"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
