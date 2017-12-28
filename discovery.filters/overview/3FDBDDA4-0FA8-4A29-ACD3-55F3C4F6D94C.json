@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3FDBDDA4-0FA8-4A29-ACD3-55F3C4F6D94C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 76,
+    "width": 116,
+    "x": -1345,
+    "y": 3070
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Post it/ Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "99696319-CC96-4EDD-9FDF-A9D845140DD5",
+      "overrideName": "23F345CC-A281-4708-B1E3-0B4346EA6614_symbolID",
+      "value": "930F6EF2-97D6-452B-9039-AB2F0C23A006"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4BAE02D8-DFBE-4173-8616-FC24CCA99250",
+      "overrideName": "A27E9A37-8FF1-4F56-B535-DDFCD3AA578F_stringValue",
+      "value": "Filtering Modal to filtering drop down"
+    }
+  ],
+  "overrides": {
+    "23F345CC-A281-4708-B1E3-0B4346EA6614": {
+      "symbolID": "930F6EF2-97D6-452B-9039-AB2F0C23A006"
+    },
+    "A27E9A37-8FF1-4F56-B535-DDFCD3AA578F": "Filtering Modal to filtering drop down"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9BF71568-63D5-4CC9-9B61-3CAFB7A314AE",
+  "verticalSpacing": 0
+}
