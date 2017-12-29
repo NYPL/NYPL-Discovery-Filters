@@ -45,13 +45,13 @@
     {
       "_class": "overrideValue",
       "overrideName": "FC4D7A53-0711-462F-A45C-E3D5D121DD69_stringValue",
-      "value": " "
+      "value": "\n"
     }
   ],
   "overrides": {
     "535F471B-24AB-4BFC-A98C-2407AA78C4B2": "un-filtered results returned",
     "CDF6B768-A4F7-48A7-AA3C-84CF4E45FCA4": "Search Results",
-    "FC4D7A53-0711-462F-A45C-E3D5D121DD69": " "
+    "FC4D7A53-0711-462F-A45C-E3D5D121DD69": "\n"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

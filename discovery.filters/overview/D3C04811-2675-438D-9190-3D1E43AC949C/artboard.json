@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 1364,
     "width": 1653,
-    "x": 4098,
+    "x": 4882,
     "y": 2854
   },
   "hasBackgroundColor": false,
@@ -96,6 +96,10 @@
     {
       "class": "group",
       "id": "8BD51107-52F3-4903-A453-5B199360DABD"
+    },
+    {
+      "class": "group",
+      "id": "A65329A5-6195-48BE-B3EA-0E42E6FAD791"
     },
     {
       "class": "group",

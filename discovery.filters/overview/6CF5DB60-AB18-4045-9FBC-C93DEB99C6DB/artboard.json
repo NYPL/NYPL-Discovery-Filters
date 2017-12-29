@@ -21,7 +21,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 1364,
-    "width": 1315,
+    "width": 2024,
     "x": 1132,
     "y": 2854
   },
@@ -41,6 +41,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DC29408A-6CD3-40AE-AB0C-4A24B8FAF4A9"
+    },
     {
       "class": "text",
       "id": "619F4C2D-74A7-487C-81E4-7FC25E25C4CF"
