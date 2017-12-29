@@ -22,11 +22,11 @@
     "constrainProportions": false,
     "height": 1024,
     "width": 320,
-    "x": -351,
-    "y": 4008
+    "x": 3570,
+    "y": 4402
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,8 +50,8 @@
       "id": "8423A789-170F-4B75-9A1B-E1312C72A548"
     }
   ],
-  "name": "Mobile",
-  "nameIsFixed": false,
+  "name": "small screen active filter state",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

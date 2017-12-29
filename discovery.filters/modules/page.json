@@ -35,6 +35,10 @@
     {
       "class": "symbolMaster",
       "id": "5C54E960-8A33-4491-BBC1-6F0412AB4089"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9D46EC0B-38C3-448A-8DDA-1F3E6ECC448F"
     }
   ],
   "name": "modules",

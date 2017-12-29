@@ -35,6 +35,10 @@
     {
       "class": "symbolMaster",
       "id": "EF3F9486-6C85-4B5D-8679-8490C94304A0"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "20D981EB-2C19-4B53-8FA2-6C4EF02EC11A"
     }
   ],
   "name": "components",

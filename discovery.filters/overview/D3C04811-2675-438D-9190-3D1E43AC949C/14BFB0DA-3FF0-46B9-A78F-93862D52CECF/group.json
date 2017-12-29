@@ -1,0 +1,46 @@
+{
+  "_class": "group",
+  "do_objectID": "14BFB0DA-3FF0-46B9-A78F-93862D52CECF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 461,
+    "x": 146,
+    "y": 263
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "A7C9ED6F-8154-461F-A20C-295A36801BE8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CDCDAFB9-9D60-48AF-835F-C4CB93E2FB5B"
+    }
+  ],
+  "name": "schematic / Search Results page title",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "FE71B6FE-D5BE-4DF7-92E8-66C400671FAC"
+  }
+}

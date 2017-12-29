@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "DFD13FAC-D007-4E7D-9B16-ECC78B8BCB71",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 78,
+    "width": 461,
+    "x": 147,
+    "y": 809
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "DD612603-82A6-4468-9C80-CEDC204680D1"
+    },
+    {
+      "class": "text",
+      "id": "99D0CF29-2567-40C6-8892-7BCF32F743AF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7D8A543A-7949-4649-AAA4-A8F805E7A037"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "409EA5E4-836B-4E06-A583-E4DA702228A2"
+    }
+  ],
+  "name": "schematic / Action buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

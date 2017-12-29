@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 482,
+  "changeIdentifier": 1111,
   "do_objectID": "5C54E960-8A33-4491-BBC1-6F0412AB4089",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 567,
+    "height": 437,
     "width": 320,
     "x": 1637,
     "y": 83
@@ -62,6 +62,14 @@
     {
       "class": "text",
       "id": "114C1767-F1E2-44D3-96B6-531C77B32356"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6BDFF11C-40F4-4080-8C49-A355F9A37ADC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F36277F5-A33A-41A9-A9F8-6E60968C1431"
     }
   ],
   "name": "modules / search module results",
