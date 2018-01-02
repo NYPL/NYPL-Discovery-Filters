@@ -42,11 +42,27 @@
     },
     {
       "class": "symbolMaster",
-      "id": "A0050B31-9E6A-47EB-A73F-AB2679465F30"
+      "id": "7085A0D0-46F3-4ACE-B2ED-335CAAB54ACA"
     },
     {
       "class": "symbolMaster",
-      "id": "945C6AD2-254C-4128-B344-C207218032DA"
+      "id": "FA3686FB-4962-4541-AAAF-1DF34E5E42D4"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "10BDA102-60F3-42A8-85D5-BFF89770AB1B"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "18A70D6E-C75B-4794-8A21-979DAED51801"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2F4BAB14-1968-43B5-90EB-D56A01932F24"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4A9FAD2D-32FD-4807-9C4C-F21918321AC9"
     }
   ],
   "name": "components",

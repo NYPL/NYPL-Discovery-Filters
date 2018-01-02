@@ -21,8 +21,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 1364,
-    "width": 1315,
-    "x": 4537,
+    "width": 2230,
+    "x": 3582,
     "y": 2854
   },
   "hasBackgroundColor": false,
@@ -120,6 +120,10 @@
     {
       "class": "text",
       "id": "28196472-3E3C-4DDC-AF98-75DA8D46C2AA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "04B5FB87-76E8-4EAF-9CF9-8A9DACA0BB9A"
     }
   ],
   "name": "intial state results returned",

@@ -25,9 +25,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 13,
+  "masterInfluenceEdgeMinXPadding": 13,
+  "masterInfluenceEdgeMinYPadding": 13,
   "name": "Header/ Tablet + Mobile",
   "nameIsFixed": false,
   "overrideValues": [

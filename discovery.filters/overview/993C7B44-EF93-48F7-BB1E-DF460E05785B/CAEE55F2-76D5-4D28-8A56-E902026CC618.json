@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CAEE55F2-76D5-4D28-8A56-E902026CC618",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1584,
+    "width": 671,
+    "x": 1142,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "document / Instruction Block",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "270EFAD3-F143-4EC5-9556-55948212A5EE",
+      "overrideName": "C9EA8BB5-9A93-4382-BB46-04541F45D165_stringValue",
+      "value": " Set Filter Rules"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B472C3D4-AFFA-4405-A9FE-A742BC8BD5CE",
+      "overrideName": "CF44091A-4C6D-4786-B6D1-1F902903C5ED_stringValue",
+      "value": "After filters have been set, the returned results"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FBB32113-7966-45A9-8087-3B473902DF27",
+      "overrideName": "9687498A-5026-418F-BE6D-ED32CA97420C_stringValue",
+      "value": "R. Galvez"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BE1BB523-95E3-40A5-8CA9-A04D067B11DF",
+      "overrideName": "68406A96-0CC9-4B61-B32E-DED742B6B59E_stringValue",
+      "value": "- Bread Crumbs remain\n- Search field remains\n- Filter button returns to initial state\n- Buttons representing set filters appear can be removed individually by click / press\n- Clear filters button appears to afford reseting to the unfiltered results\n- Number of results per page remains\n- Sort by relevance button remains\n"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "14215564-657A-4718-BA8D-B6C6D8004B7A",
+      "overrideName": "6CFD2825-5D17-4264-9E81-7276281B5E10_stringValue",
+      "value": " "
+    }
+  ],
+  "overrides": {
+    "68406A96-0CC9-4B61-B32E-DED742B6B59E": "- Bread Crumbs remain\n- Search field remains\n- Filter button returns to initial state\n- Buttons representing set filters appear can be removed individually by click / press\n- Clear filters button appears to afford reseting to the unfiltered results\n- Number of results per page remains\n- Sort by relevance button remains\n",
+    "6CFD2825-5D17-4264-9E81-7276281B5E10": " ",
+    "9687498A-5026-418F-BE6D-ED32CA97420C": "R. Galvez",
+    "C9EA8BB5-9A93-4382-BB46-04541F45D165": " Set Filter Rules",
+    "CF44091A-4C6D-4786-B6D1-1F902903C5ED": "After filters have been set, the returned results"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CC841E50-05F5-448C-9E58-498DB28E6E53",
+  "verticalSpacing": 0
+}

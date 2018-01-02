@@ -31,8 +31,43 @@
   "name": "component / Instruction Block",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8AF99717-7CF3-45C9-B413-60D0CF707E01",
+      "overrideName": "9687498A-5026-418F-BE6D-ED32CA97420C_stringValue",
+      "value": "R. Galvez"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DC811183-D668-4B43-BFED-0D44B5FD651C",
+      "overrideName": "CF44091A-4C6D-4786-B6D1-1F902903C5ED_stringValue",
+      "value": "Landing / Entry point for searching the Shared Collection Catalog, ReCap"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "21F2F4F8-267F-45C2-876E-4E24B2F67E9E",
+      "overrideName": "68406A96-0CC9-4B61-B32E-DED742B6B59E_stringValue",
+      "value": "- Field accepts user input\n- Search Button press submits search"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A790D501-C690-4152-A205-972A2BB231E3",
+      "overrideName": "6CFD2825-5D17-4264-9E81-7276281B5E10_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F4781ED3-965A-4A56-AAEB-863258C75F0D",
+      "overrideName": "C9EA8BB5-9A93-4382-BB46-04541F45D165_stringValue",
+      "value": "Screen Instructions"
+    }
   ],
   "overrides": {
+    "68406A96-0CC9-4B61-B32E-DED742B6B59E": "- Field accepts user input\n- Search Button press submits search",
+    "6CFD2825-5D17-4264-9E81-7276281B5E10": " ",
+    "9687498A-5026-418F-BE6D-ED32CA97420C": "R. Galvez",
+    "C9EA8BB5-9A93-4382-BB46-04541F45D165": "Screen Instructions",
+    "CF44091A-4C6D-4786-B6D1-1F902903C5ED": "Landing / Entry point for searching the Shared Collection Catalog, ReCap"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

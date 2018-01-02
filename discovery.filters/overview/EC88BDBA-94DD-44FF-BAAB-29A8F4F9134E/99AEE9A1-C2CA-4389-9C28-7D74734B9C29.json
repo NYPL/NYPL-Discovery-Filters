@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
+    "height": 75,
     "width": 1045,
     "x": 80,
     "y": 350
@@ -35,7 +35,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "CDF6B768-A4F7-48A7-AA3C-84CF4E45FCA4_stringValue",
-      "value": "Filter Overlay"
+      "value": "Filter Accordian / Dropdown"
     },
     {
       "_class": "overrideValue",
@@ -45,22 +45,29 @@
     {
       "_class": "overrideValue",
       "overrideName": "FC4D7A53-0711-462F-A45C-E3D5D121DD69_stringValue",
-      "value": " fltering on Format, Date and Language"
+      "value": " fltering on Format, Date and Language should be converted from a full screen modal to a accordian style drop down"
     },
     {
       "_class": "overrideValue",
       "do_objectID": "C65E750D-58F1-4BC2-8FE2-9B362308CD12",
       "overrideName": "C39243E0-3253-4852-8926-5F0018FAD65B_symbolID",
       "value": "1BC10647-42F5-436C-A9BC-1000E7A6863A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6A41D447-F2EB-4AEF-974B-153FCBB9275B",
+      "overrideName": "7D0CE589-A9F0-4B3F-BE7B-9A7C7FCEEA73_stringValue",
+      "value": "U-1"
     }
   ],
   "overrides": {
     "535F471B-24AB-4BFC-A98C-2407AA78C4B2": "Filtering options",
+    "7D0CE589-A9F0-4B3F-BE7B-9A7C7FCEEA73": "U-1",
     "C39243E0-3253-4852-8926-5F0018FAD65B": {
       "symbolID": "1BC10647-42F5-436C-A9BC-1000E7A6863A"
     },
-    "CDF6B768-A4F7-48A7-AA3C-84CF4E45FCA4": "Filter Overlay",
-    "FC4D7A53-0711-462F-A45C-E3D5D121DD69": " fltering on Format, Date and Language"
+    "CDF6B768-A4F7-48A7-AA3C-84CF4E45FCA4": "Filter Accordian / Dropdown",
+    "FC4D7A53-0711-462F-A45C-E3D5D121DD69": " fltering on Format, Date and Language should be converted from a full screen modal to a accordian style drop down"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A3BC3783-B5B3-406B-B0AD-8AF1D36CBF2E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1584,
+    "width": 671,
+    "x": 1143,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "over-view / Instruction Block",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BEE9B21F-E7FD-450A-B5D1-C223401D6E15",
+      "overrideName": "C9EA8BB5-9A93-4382-BB46-04541F45D165_stringValue",
+      "value": "Filters Active Rules"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0D4A236F-C3C2-4FC0-886E-143217AE7B8E",
+      "overrideName": "CF44091A-4C6D-4786-B6D1-1F902903C5ED_stringValue",
+      "value": "After the Filter buton has been pressed / clicked an accordian dropdown is exposed to reveal filtering options"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8245CD6C-017E-4E67-96FC-0D92AD67599C",
+      "overrideName": "9687498A-5026-418F-BE6D-ED32CA97420C_stringValue",
+      "value": "R. Galvez"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FD48B63F-45F7-4B52-BE45-9777F4A0D893",
+      "overrideName": "68406A96-0CC9-4B61-B32E-DED742B6B59E_stringValue",
+      "value": "- Bread Crumbs remain\n- Search field remains\n- Filter button text is rendered as \"close\" and should close the filter on click / press\n- Filter Results heading appears\n- Filter by Format, Date and Language options are rendered where available\n- Apply Filter button appears to set chosen filters\n- Clear filters button appears\n- Number of results per page remains\n- Sort by relevance button remains\n- After filters are set, apply button should set filters and close the drop down, exposing the new set of results"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ED56D812-102B-4CB4-9492-C4AA9882F9B8",
+      "overrideName": "6CFD2825-5D17-4264-9E81-7276281B5E10_stringValue",
+      "value": " "
+    }
+  ],
+  "overrides": {
+    "68406A96-0CC9-4B61-B32E-DED742B6B59E": "- Bread Crumbs remain\n- Search field remains\n- Filter button text is rendered as \"close\" and should close the filter on click / press\n- Filter Results heading appears\n- Filter by Format, Date and Language options are rendered where available\n- Apply Filter button appears to set chosen filters\n- Clear filters button appears\n- Number of results per page remains\n- Sort by relevance button remains\n- After filters are set, apply button should set filters and close the drop down, exposing the new set of results",
+    "6CFD2825-5D17-4264-9E81-7276281B5E10": " ",
+    "9687498A-5026-418F-BE6D-ED32CA97420C": "R. Galvez",
+    "C9EA8BB5-9A93-4382-BB46-04541F45D165": "Filters Active Rules",
+    "CF44091A-4C6D-4786-B6D1-1F902903C5ED": "After the Filter buton has been pressed / clicked an accordian dropdown is exposed to reveal filtering options"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CC841E50-05F5-448C-9E58-498DB28E6E53",
+  "verticalSpacing": 0
+}

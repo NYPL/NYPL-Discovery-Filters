@@ -21,12 +21,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 1364,
-    "width": 1653,
-    "x": 6658,
+    "width": 1814,
+    "x": 6602,
     "y": 2854
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -112,6 +112,10 @@
     {
       "class": "text",
       "id": "3A42816C-D84E-4B3B-A496-C9FB975FB62B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3BC3783-B5B3-406B-B0AD-8AF1D36CBF2E"
     }
   ],
   "name": "active filter state",

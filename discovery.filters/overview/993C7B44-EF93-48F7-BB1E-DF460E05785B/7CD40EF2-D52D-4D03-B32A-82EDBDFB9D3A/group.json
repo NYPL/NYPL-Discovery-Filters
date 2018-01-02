@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "7CD40EF2-D52D-4D03-B32A-82EDBDFB9D3A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 147,
+    "width": 461,
+    "x": 146,
+    "y": 541
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C1B1597C-D43B-491D-BF44-08CF473205C3"
+    },
+    {
+      "class": "text",
+      "id": "68115A13-AB7F-4219-A878-C3DC818B44A2"
+    },
+    {
+      "class": "text",
+      "id": "A6B3A3CF-15F0-45B4-9CAD-E18A4FB4376E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "728DBC32-A47D-4B70-8464-62FE4D1C7D7A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "76702DB7-4BFF-4A80-B62F-4A5B10B5F575"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F6CB5A4E-E2AE-4598-BD5D-89E41D0C2214"
+    }
+  ],
+  "name": "schematci / Date Filtering Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

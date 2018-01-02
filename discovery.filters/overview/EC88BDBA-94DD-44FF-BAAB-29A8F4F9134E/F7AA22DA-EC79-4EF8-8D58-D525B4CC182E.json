@@ -1,0 +1,90 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F7AA22DA-EC79-4EF8-8D58-D525B4CC182E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 1045,
+    "x": 80,
+    "y": 424
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "UX Doc/ Content Inventory/ Line Item Copy 4",
+  "nameIsFixed": false,
+  "originalObjectID": "99AEE9A1-C2CA-4389-9C28-7D74734B9C29",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CDF6B768-A4F7-48A7-AA3C-84CF4E45FCA4_stringValue",
+      "value": "Rearrange search section"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "535F471B-24AB-4BFC-A98C-2407AA78C4B2_stringValue",
+      "value": "Filtering options"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FC4D7A53-0711-462F-A45C-E3D5D121DD69_stringValue",
+      "value": "Couple Fiter results button w/ search field, move number of results to bottom of module"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C39243E0-3253-4852-8926-5F0018FAD65B_symbolID",
+      "value": "1BC10647-42F5-436C-A9BC-1000E7A6863A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4377A07F-5668-4B9E-BC7F-7D2FAB80D40B",
+      "overrideName": "7D0CE589-A9F0-4B3F-BE7B-9A7C7FCEEA73_stringValue",
+      "value": "U-2"
+    }
+  ],
+  "overrides": {
+    "535F471B-24AB-4BFC-A98C-2407AA78C4B2": "Filtering options",
+    "7D0CE589-A9F0-4B3F-BE7B-9A7C7FCEEA73": "U-2",
+    "C39243E0-3253-4852-8926-5F0018FAD65B": {
+      "symbolID": "1BC10647-42F5-436C-A9BC-1000E7A6863A"
+    },
+    "CDF6B768-A4F7-48A7-AA3C-84CF4E45FCA4": "Rearrange search section",
+    "FC4D7A53-0711-462F-A45C-E3D5D121DD69": "Couple Fiter results button w/ search field, move number of results to bottom of module"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "92EA4406-4E02-4C3F-B4A8-FD1BB399E313",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
