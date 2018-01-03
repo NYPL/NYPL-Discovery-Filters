@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZmdYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHQcIDxAeHyAhIiotMzY6QkNERUZKTlpbXF1eX2FiVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAHIADWENMT1NFIElU0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAMgBSAG4AaXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu1CMKJCUmJygoWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzgACAC4AJgAnSEgorLKCACtIuLzAxWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIwMlhOU09iamVjdNIuLzQ1XxAQTlNQYXJhZ3JhcGhTdHlsZaI0MtIKNzg5XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAE4AN0xESCjs+QaI8PYAOgA+iP0CAEIARgBJfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAF8QEFNGUHJvVGV4dC1NZWRpdW3SLi9HSF8QE05TTXV0YWJsZURpY3Rpb25hcnmjR0kyXE5TRGljdGlvbmFyedIuL0tMXxAQTlNGb250RGVzY3JpcHRvcqJNMl8QEE5TRm9udERlc2NyaXB0b3LTERIKT1QdpFBRUlOAFYAWgBeAGKRVVVVVgBmAGYAZgBmAGlNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/8AAAAAAAANIuL0lgokkyIwAAAAAAAAAA0i4vY2RfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiZTJfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRaGlUcm9vdIABAAgAEQAaACMALQAyADcAVwBdAGQAbQB0AIEAgwCFAIcAkACXAJ8AqgCvALEAswC1ALcAvAC+AMAAwgDEAMYA2QD7ASgBLwE4AUMBUAFcAV4BYAFiAWQBaQFqAWwBcQF8AYUBjQGQAZkBngGxAbQBuQHWAdgB2gHhAeQB5gHoAesB7QHvAfECBwIdAiYCOQI+AlQCWAJlAmoCfQKAApMCmgKfAqECowKlAqcCrAKuArACsgK0ArYCugLAAsUCywLUAtkC3ALlAuoC/wMCAxcDKQMsAzEAAAAAAAACAQAAAAAAAABqAAAAAAAAAAAAAAAAAAADMw=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "FF9BEEB6-2CFE-43F7-A783-FDB3FF0B5AB1",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 87,
+    "x": 36,
+    "y": 10
+  },
+  "glyphBounds": "{{0, 2}, {63, 12}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "CLOSE IT",
+  "nameIsFixed": false,
+  "resizingConstraint": 58,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "E9384A1A-26B8-4F46-AEAD-B06E403BB0BA"
+  },
+  "textBehaviour": 1
+}

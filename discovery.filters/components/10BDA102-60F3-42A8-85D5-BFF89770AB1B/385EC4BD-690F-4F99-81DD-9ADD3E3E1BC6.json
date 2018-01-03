@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 87,
+    "width": 123,
     "x": 21,
     "y": 1
   },
@@ -25,9 +25,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 82,
-  "masterInfluenceEdgeMinXPadding": 24,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 2,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 3,
   "name": "text symbols / Checkbox default text",
   "nameIsFixed": false,
   "overrideValues": [

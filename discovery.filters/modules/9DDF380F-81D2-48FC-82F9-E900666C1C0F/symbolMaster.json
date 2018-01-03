@@ -1,0 +1,111 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 11336,
+  "do_objectID": "9DDF380F-81D2-48FC-82F9-E900666C1C0F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 738,
+    "width": 320,
+    "x": 5426,
+    "y": 55
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A988882B-FE14-4C56-A4EB-9106F3C7F441"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "48044DDD-83AC-4AF5-956C-C53B7DE12920"
+    },
+    {
+      "class": "text",
+      "id": "A00D673E-D88A-4035-8372-1E3629C51D2A"
+    },
+    {
+      "class": "text",
+      "id": "C89769EF-B0CD-4E90-A7EB-BA1CD3267200"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9B15FFF9-CCEE-4716-AB3A-3E2E24E0058E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1F53DB8-329D-4E20-BCE0-81B0605CABFA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45576C5E-C98D-4E90-B59F-D8B7387E63AA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C612938B-8AE2-4E8F-B422-FDD08FD86CF4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "48DC2A17-A811-4922-BB66-DB5212846A08"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "79C8626B-5B17-431A-9A03-FF02CBD61454"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2FC38DB6-891B-4B45-8442-E19AC2855244"
+    }
+  ],
+  "name": "modules / search module active set filter",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "08915AE5-E724-491F-8AE6-3502F8A2FABF",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

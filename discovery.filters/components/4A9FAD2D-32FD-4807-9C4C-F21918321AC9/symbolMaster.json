@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 150,
+  "changeIdentifier": 496,
   "do_objectID": "4A9FAD2D-32FD-4807-9C4C-F21918321AC9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 151,
     "width": 320,
-    "x": 161,
-    "y": -99
+    "x": 567,
+    "y": -138
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -56,8 +56,8 @@
       "id": "6BDFF11C-40F4-4080-8C49-A355F9A37ADC"
     }
   ],
-  "name": "component / sort number lockup",
-  "nameIsFixed": false,
+  "name": "component / sort number lockup small",
+  "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

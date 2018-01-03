@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1732,
+  "changeIdentifier": 3233,
   "do_objectID": "5C54E960-8A33-4491-BBC1-6F0412AB4089",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 488,
+    "height": 441,
     "width": 320,
-    "x": 1637,
-    "y": 83
+    "x": 2017,
+    "y": 55
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -70,7 +70,7 @@
   ],
   "name": "modules / search module results",
   "nameIsFixed": true,
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

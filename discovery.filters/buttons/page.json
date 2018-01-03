@@ -37,12 +37,20 @@
       "id": "851DC6FA-3E78-4308-8196-FE09EA7635B8"
     },
     {
-      "class": "bitmap",
-      "id": "9A9A00E4-A40E-48FA-AABC-CDCA7CAB74FC"
+      "class": "symbolMaster",
+      "id": "3C612528-1B11-4C85-BF44-7C8F6C15DB1F"
     },
     {
       "class": "symbolMaster",
-      "id": "3C612528-1B11-4C85-BF44-7C8F6C15DB1F"
+      "id": "A7B8E1B1-40F4-4D05-A466-CBB6E7C8D014"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D8105EF7-25A8-425C-8F53-BCC96C451683"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3C00E687-2EE3-45AC-ADDE-897B95DF12F1"
     }
   ],
   "name": "buttons",

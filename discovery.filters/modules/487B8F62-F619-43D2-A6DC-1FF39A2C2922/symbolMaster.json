@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 5224,
+  "changeIdentifier": 9377,
   "do_objectID": "487B8F62-F619-43D2-A6DC-1FF39A2C2922",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1451,
+    "height": 1307,
     "width": 320,
-    "x": 2127,
-    "y": 83
+    "x": 3812,
+    "y": 55
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -69,7 +69,15 @@
     },
     {
       "class": "symbolInstance",
+      "id": "73007075-F954-4FCD-9CE9-713F3DAFDD64"
+    },
+    {
+      "class": "symbolInstance",
       "id": "EAD71CBE-0E6A-4C14-AC90-177FA6614847"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AB063339-CF75-4486-AE0A-756AD3F23A03"
     },
     {
       "class": "symbolInstance",
@@ -77,7 +85,15 @@
     },
     {
       "class": "symbolInstance",
+      "id": "DA00E147-ED4A-41C4-BCB3-9B4942B50265"
+    },
+    {
+      "class": "symbolInstance",
       "id": "2124F1BC-4529-461D-BC90-DAEEA0AA76B5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9AE89466-8EB3-4E81-8095-5DDEFC3DE858"
     },
     {
       "class": "text",
@@ -88,11 +104,55 @@
       "id": "8457CCD9-8BE7-4CFD-9C5D-12ABD446F688"
     },
     {
+      "class": "text",
+      "id": "4727CCF9-B023-4993-9D8F-BB863F8678D2"
+    },
+    {
+      "class": "text",
+      "id": "EF264524-ABC9-4BA8-B357-73B9D90C30F6"
+    },
+    {
       "class": "symbolInstance",
       "id": "1099C601-1B61-4697-BFBA-4462C7FB9187"
+    },
+    {
+      "class": "group",
+      "id": "9639E59B-BA01-47DC-BB4A-1EB3231CF661"
+    },
+    {
+      "class": "group",
+      "id": "0D0DB168-056F-4B40-A944-A08495401F0E"
+    },
+    {
+      "class": "text",
+      "id": "9775D831-61AB-4512-9866-A10733636235"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E5F325EB-E72E-4D3B-979F-1CF7AEAEB96C"
+    },
+    {
+      "class": "text",
+      "id": "0269AD40-8816-4A25-9F4C-D0C6E253180E"
+    },
+    {
+      "class": "text",
+      "id": "C14F13EA-CC99-40DE-9B99-8AACE8EE8800"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0027FA2A-69ED-4FDA-8F96-40ECD12A351A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8FF03446-1761-495C-99F1-7D81339EC03A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B939B0BA-A130-449C-AD49-FED976B460DB"
     }
   ],
-  "name": "modules / search module accordian / drop down",
+  "name": "modules / search module active accordian ",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

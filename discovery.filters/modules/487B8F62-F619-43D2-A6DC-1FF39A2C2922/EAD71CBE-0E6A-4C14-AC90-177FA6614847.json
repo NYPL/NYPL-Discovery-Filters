@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 113,
+    "width": 164,
     "x": 21,
     "y": 416
   },
@@ -25,9 +25,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 82,
-  "masterInfluenceEdgeMinXPadding": 3,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 2,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 2,
   "name": "component / checkbox text lockup copy",
   "nameIsFixed": false,
   "overrideValues": [

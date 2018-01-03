@@ -63,6 +63,18 @@
     {
       "class": "symbolMaster",
       "id": "4A9FAD2D-32FD-4807-9C4C-F21918321AC9"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F92EDD31-C623-4049-B8D6-BEB9F105CE7F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "037619E2-D410-4D30-8819-D0E4EB581F47"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C1A94A34-5F27-46B1-90A9-CFFAFF4E6C18"
     }
   ],
   "name": "components",

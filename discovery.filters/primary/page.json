@@ -47,6 +47,18 @@
     {
       "class": "bitmap",
       "id": "ADE0D45A-EE97-4979-888A-828DA1804275"
+    },
+    {
+      "class": "bitmap",
+      "id": "4A914090-7221-4F92-95C0-82799DAD9CAF"
+    },
+    {
+      "class": "bitmap",
+      "id": "E12D5460-CA1F-491A-A5A8-C624EE63253F"
+    },
+    {
+      "class": "bitmap",
+      "id": "6056AEFD-5F36-4778-A117-1C3075243B64"
     }
   ],
   "name": "primary",

@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1364,
+    "height": 1515,
     "width": 1814,
     "x": 6602,
     "y": 2854
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,6 +41,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "61E30B7D-FEF7-44B0-984C-6B800EB5903A"
+    },
     {
       "class": "text",
       "id": "787516E2-DA74-4912-9408-016A103F4558"
@@ -104,10 +108,6 @@
     {
       "class": "group",
       "id": "5FD338F3-7C48-4329-A4B9-9DE01BF8F7AA"
-    },
-    {
-      "class": "bitmap",
-      "id": "4A914090-7221-4F92-95C0-82799DAD9CAF"
     },
     {
       "class": "text",

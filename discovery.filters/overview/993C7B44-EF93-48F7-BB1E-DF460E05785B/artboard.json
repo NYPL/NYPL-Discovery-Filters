@@ -42,6 +42,10 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "symbolInstance",
+      "id": "8EBBFFC8-C2D6-48EF-8265-884AAE015F19"
+    },
+    {
       "class": "text",
       "id": "EEBED0E8-5274-445B-B199-AC6420B9FE01"
     },
@@ -92,10 +96,6 @@
     {
       "class": "symbolInstance",
       "id": "CAEE55F2-76D5-4D28-8A56-E902026CC618"
-    },
-    {
-      "class": "bitmap",
-      "id": "21B8DA23-DC6E-44A2-AFF6-4F3AF297CDC5"
     },
     {
       "class": "group",

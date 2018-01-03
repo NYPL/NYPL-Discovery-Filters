@@ -42,7 +42,31 @@
     },
     {
       "class": "symbolMaster",
+      "id": "9DDF380F-81D2-48FC-82F9-E900666C1C0F"
+    },
+    {
+      "class": "symbolMaster",
       "id": "9D46EC0B-38C3-448A-8DDA-1F3E6ECC448F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "5945CC1E-5F38-4E74-951D-9F51B47669ED"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "28A306C0-89D5-40ED-9A17-74C59B2352E8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "CCBDF4D7-8A5D-4684-AFC4-D09B97EC5057"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "524341D2-9F0B-458D-A5C3-C90002476012"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F64402D5-20F3-4651-89E8-BC86F1986C7A"
     }
   ],
   "name": "modules",

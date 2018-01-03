@@ -65,8 +65,8 @@
       "id": "993C7B44-EF93-48F7-BB1E-DF460E05785B"
     },
     {
-      "class": "artboard",
-      "id": "3408A50B-A29E-4B2A-B9C9-DAAEE75A9E86"
+      "class": "symbolMaster",
+      "id": "C749FB80-1F5E-4CE8-BA10-6365D9A48CAA"
     },
     {
       "class": "artboard",
@@ -81,12 +81,24 @@
       "id": "3FDBDDA4-0FA8-4A29-ACD3-55F3C4F6D94C"
     },
     {
-      "class": "artboard",
-      "id": "1A39639D-56E1-4D7F-BF7D-29C9E8FBCB9F"
+      "class": "symbolMaster",
+      "id": "A01BAC96-6C1C-4ABD-921B-E7A5CFBCCA1E"
     },
     {
-      "class": "artboard",
-      "id": "A3AD705F-56F5-4265-8726-E5EE9632333A"
+      "class": "symbolMaster",
+      "id": "D5D2D796-CFC6-48B0-BA20-A2F2B0C6091F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "06B1D5CF-B4C7-4BC8-90AB-C530A7F6AA10"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "03C6465D-9BB5-41DF-97A2-92239D850382"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A9E8E1E2-15E1-4430-8986-CFE8BA041B15"
     }
   ],
   "name": "overview",

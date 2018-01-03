@@ -31,8 +31,15 @@
   "name": "buttons / filter results",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BFB0DF5B-E3F6-4D26-ABEB-A86DF772B474",
+      "overrideName": "6B26EBE4-B031-4F68-A8B2-02AE76EBFD8F_stringValue",
+      "value": "Close Filters"
+    }
   ],
   "overrides": {
+    "6B26EBE4-B031-4F68-A8B2-02AE76EBFD8F": "Close Filters"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
