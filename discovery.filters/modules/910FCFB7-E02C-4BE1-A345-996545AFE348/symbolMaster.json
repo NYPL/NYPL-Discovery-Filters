@@ -1,0 +1,117 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1953,
+  "do_objectID": "910FCFB7-E02C-4BE1-A345-996545AFE348",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1097,
+    "width": 1440,
+    "x": 3812,
+    "y": 1496
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      162,
+      1049
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1FD70379-8D2C-4F33-BE45-7BE01E908A57"
+    },
+    {
+      "class": "text",
+      "id": "7BC0F112-0C65-4932-B193-99AD03DC61B0"
+    },
+    {
+      "class": "text",
+      "id": "FBBA5724-9EAB-439F-B25A-744837167BDD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3F442332-DCF9-404F-8B6E-CF2CF60145D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2CEAA630-B140-446F-A93F-7B60BA7331BC"
+    },
+    {
+      "class": "text",
+      "id": "02E80C44-7F67-472E-A753-A0F4AD9ABC07"
+    },
+    {
+      "class": "group",
+      "id": "A6EABB21-7DF3-4C77-A05B-8DC23E8B4A32"
+    },
+    {
+      "class": "group",
+      "id": "58DF3024-9846-44A6-8165-786CA1BEFFA9"
+    },
+    {
+      "class": "group",
+      "id": "365387CF-832C-4911-8E42-C1C254D8098F"
+    },
+    {
+      "class": "group",
+      "id": "1AF1E8EC-4EE2-4849-B346-4AF8600E969E"
+    },
+    {
+      "class": "group",
+      "id": "449F9A01-E327-4F96-B150-3FD819205109"
+    },
+    {
+      "class": "group",
+      "id": "446D82C9-79F9-4471-8707-0FA1DECEC312"
+    }
+  ],
+  "name": "modules / search module active accordian large",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0F74A09D-DDB9-4F17-B5CE-7332551FE3FA",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

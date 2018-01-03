@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -25,7 +34,7 @@
     "x": -351,
     "y": 496
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -39,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",

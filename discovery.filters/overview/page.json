@@ -42,6 +42,10 @@
     },
     {
       "class": "artboard",
+      "id": "94436849-A774-4EC7-A36C-36CAC98C3F8C"
+    },
+    {
+      "class": "artboard",
       "id": "EC88BDBA-94DD-44FF-BAAB-29A8F4F9134E"
     },
     {
@@ -65,40 +69,12 @@
       "id": "993C7B44-EF93-48F7-BB1E-DF460E05785B"
     },
     {
-      "class": "symbolMaster",
-      "id": "C749FB80-1F5E-4CE8-BA10-6365D9A48CAA"
-    },
-    {
-      "class": "artboard",
-      "id": "F3195079-C4DB-4504-B341-A967F36CB228"
-    },
-    {
       "class": "bitmap",
       "id": "2A5C5A46-A3BD-4BC1-8AFA-463B1F4D9E9A"
     },
     {
       "class": "symbolInstance",
       "id": "3FDBDDA4-0FA8-4A29-ACD3-55F3C4F6D94C"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "A01BAC96-6C1C-4ABD-921B-E7A5CFBCCA1E"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "D5D2D796-CFC6-48B0-BA20-A2F2B0C6091F"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "06B1D5CF-B4C7-4BC8-90AB-C530A7F6AA10"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "03C6465D-9BB5-41DF-97A2-92239D850382"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "A9E8E1E2-15E1-4430-8986-CFE8BA041B15"
     }
   ],
   "name": "overview",

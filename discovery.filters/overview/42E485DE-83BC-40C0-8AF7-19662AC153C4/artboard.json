@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -25,7 +34,7 @@
     "x": 3582,
     "y": 2854
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -39,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -114,16 +123,16 @@
       "id": "ADFB1FD8-3B00-4B41-8572-041C9D4EC884"
     },
     {
-      "class": "bitmap",
-      "id": "BD012F57-377C-429D-A579-0E5F8BE347B4"
-    },
-    {
       "class": "text",
       "id": "28196472-3E3C-4DDC-AF98-75DA8D46C2AA"
     },
     {
       "class": "symbolInstance",
       "id": "04B5FB87-76E8-4EAF-9CF9-8A9DACA0BB9A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "67E3B796-090A-4370-A455-73FAAF0E1218"
     }
   ],
   "name": "intial state results returned",

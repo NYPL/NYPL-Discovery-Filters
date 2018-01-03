@@ -59,6 +59,10 @@
     {
       "class": "bitmap",
       "id": "6056AEFD-5F36-4778-A117-1C3075243B64"
+    },
+    {
+      "class": "bitmap",
+      "id": "BD012F57-377C-429D-A579-0E5F8BE347B4"
     }
   ],
   "name": "primary",

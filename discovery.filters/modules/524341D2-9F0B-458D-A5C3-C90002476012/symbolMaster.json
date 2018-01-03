@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 5397,
+  "changeIdentifier": 6770,
   "do_objectID": "524341D2-9F0B-458D-A5C3-C90002476012",
   "exportOptions": {
     "_class": "exportOptions",
@@ -77,11 +77,19 @@
     },
     {
       "class": "symbolInstance",
+      "id": "CCA2C62B-CBFC-4260-894A-F34793EB8005"
+    },
+    {
+      "class": "symbolInstance",
       "id": "0ABEAB55-E94F-40C2-B71A-6850E191BEE0"
     },
     {
       "class": "symbolInstance",
       "id": "449A9124-5201-471B-A750-DD212865BAC2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C16AD538-62D0-418C-8145-A544FB53E0F0"
     },
     {
       "class": "symbolInstance",
@@ -93,11 +101,19 @@
     },
     {
       "class": "symbolInstance",
+      "id": "E5479E94-4795-4643-877E-525994F6C332"
+    },
+    {
+      "class": "symbolInstance",
       "id": "8A58DFAE-847B-4559-BD04-062840B9A102"
     },
     {
       "class": "symbolInstance",
       "id": "FD21BBBA-8AE2-47C3-A510-02D236782CCF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "82D7E18E-8123-4A23-8F20-97AEDD751086"
     },
     {
       "class": "text",

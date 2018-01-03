@@ -62,11 +62,19 @@
     },
     {
       "class": "symbolMaster",
+      "id": "A38AE35D-6FA1-4531-931D-1D009EFFACCF"
+    },
+    {
+      "class": "symbolMaster",
       "id": "524341D2-9F0B-458D-A5C3-C90002476012"
     },
     {
       "class": "symbolMaster",
       "id": "F64402D5-20F3-4651-89E8-BC86F1986C7A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "910FCFB7-E02C-4BE1-A345-996545AFE348"
     }
   ],
   "name": "modules",
