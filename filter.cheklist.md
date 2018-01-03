@@ -1,8 +1,9 @@
+
 # Discovery  Search Results Filtering Checklist
 
 ## Problem Statement
 **_What Problem are we solving?_**
-    
+
 Shared Collection Interface requires the ability to filter search results. Presently there is no way for users to filter their results against any criterion.
 
 ## Strategic Goals
@@ -86,7 +87,7 @@ TBD
 
 Part of the ReCAP project
 
-## Product/ Network integration: 
+## Product/ Network integration:
 **_How does it relate to other brands or products at the Library?_**
 
 Joins the other search interfaces in production. The nypl.org global header could share the same "physical" space if a user were to activate that search feature, but would not execute the same search.
@@ -150,5 +151,4 @@ Higher profile(s) on (https://nypl.org)
 
 **_How are we letting other departments know about this new feature / product?_**
 
-Announcements via Johanes' group, Bridge Learning 
-
+Announcements via Johanes' group, Bridge Learning
