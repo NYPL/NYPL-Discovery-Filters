@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 6770,
+  "changeIdentifier": 14848,
   "do_objectID": "524341D2-9F0B-458D-A5C3-C90002476012",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,17 +21,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1128,
+    "height": 948,
     "width": 768,
-    "x": 4316,
-    "y": 55
+    "x": 3090,
+    "y": 491
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      104
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -60,114 +61,53 @@
       "id": "1D950316-6E5F-44DE-9EEB-EADBC1995561"
     },
     {
-      "class": "group",
-      "id": "72B3DD2D-EA19-46D7-B140-F1065DBB4856"
+      "class": "symbolInstance",
+      "id": "14D6722D-96C4-4259-B565-F371CB200575"
     },
     {
       "class": "symbolInstance",
-      "id": "7DA44BC3-20D6-4AAF-A7ED-8B3880900A28"
+      "id": "00880AA9-0530-4735-8B1F-A123E7AF3565"
     },
     {
       "class": "symbolInstance",
-      "id": "B43DB446-1CA1-461D-8DEA-8B8CC52CA74A"
+      "id": "927E1109-8666-4FA4-A284-05543120BFD6"
     },
     {
       "class": "symbolInstance",
-      "id": "193E552E-E9AE-4AE9-B685-AE18EDAA7B7F"
+      "id": "7501F12A-A241-4284-B157-8E0CC4A4C0C9"
     },
     {
       "class": "symbolInstance",
-      "id": "CCA2C62B-CBFC-4260-894A-F34793EB8005"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0ABEAB55-E94F-40C2-B71A-6850E191BEE0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "449A9124-5201-471B-A750-DD212865BAC2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C16AD538-62D0-418C-8145-A544FB53E0F0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DA81F1FB-4159-4C7A-BE1F-40F611505231"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0C5E9A99-8618-4AE2-B12B-E8404FDFDBA6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E5479E94-4795-4643-877E-525994F6C332"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8A58DFAE-847B-4559-BD04-062840B9A102"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FD21BBBA-8AE2-47C3-A510-02D236782CCF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "82D7E18E-8123-4A23-8F20-97AEDD751086"
-    },
-    {
-      "class": "text",
-      "id": "698BDD5D-AF62-44FB-B0BE-7A861A169AAC"
-    },
-    {
-      "class": "text",
-      "id": "A8F60E8D-7E88-4123-A0EC-0F630A37F0BC"
-    },
-    {
-      "class": "text",
-      "id": "68379C95-737A-4783-8DCF-83D646AF01BA"
-    },
-    {
-      "class": "text",
-      "id": "8E04B399-E4A3-413A-97F2-40377D05FDB8"
-    },
-    {
-      "class": "text",
-      "id": "62D1DF31-FB95-430F-8D25-A16FE79B29C4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C3322843-7580-4520-BFD7-F1E9E6C1C9F7"
-    },
-    {
-      "class": "text",
-      "id": "15691876-2159-4665-A25D-918F6AA9DD5B"
-    },
-    {
-      "class": "text",
-      "id": "7508466B-3A78-4A24-97B9-C1D080F27D63"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "90509390-4A2A-4365-BF04-C30205F3BA67"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "ABB3ACFE-7051-4DFB-A46D-5D8B651C2384"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "FA392238-6B92-46B8-8FF7-DECF7720A102"
+      "id": "35EFC788-B7EE-4AD5-AC6B-E4981B86E3EA"
     },
     {
       "class": "group",
-      "id": "910EF94F-E2F1-4A73-A80A-F83F1EC139E5"
+      "id": "3E69CEF2-8158-4F3C-9F1C-AD6067177C2C"
     },
     {
       "class": "group",
-      "id": "B943F374-3B4B-4286-AE15-858F52C3FB3D"
+      "id": "1FE3DC52-E85E-4AFB-A2CF-A34B3C92BB55"
+    },
+    {
+      "class": "group",
+      "id": "7BB40988-C23B-4190-88F3-9B916DC14741"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 80,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 8,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 768
+  },
   "name": "modules / search module active accordian medium",
   "nameIsFixed": true,
   "resizesContent": false,
@@ -186,6 +126,12 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      36,
+      90,
+      162,
+      207,
+      269,
+      309
     ]
   }
 }

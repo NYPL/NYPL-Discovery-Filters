@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1953,
+  "changeIdentifier": 2581,
   "do_objectID": "910FCFB7-E02C-4BE1-A345-996545AFE348",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 1097,
     "width": 1440,
-    "x": 3812,
-    "y": 1496
+    "x": 4051,
+    "y": 491
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -94,6 +94,21 @@
       "id": "446D82C9-79F9-4471-8707-0FA1DECEC312"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 120.1111111111111,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 29,
+    "guttersOutside": false,
+    "horizontalOffset": 63.5,
+    "isEnabled": true,
+    "numberOfColumns": 9,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1313
+  },
   "name": "modules / search module active accordian large",
   "nameIsFixed": false,
   "resizesContent": false,

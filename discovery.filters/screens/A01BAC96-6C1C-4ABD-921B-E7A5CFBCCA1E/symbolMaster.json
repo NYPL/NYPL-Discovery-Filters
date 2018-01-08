@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 412,
+  "changeIdentifier": 2461,
   "do_objectID": "A01BAC96-6C1C-4ABD-921B-E7A5CFBCCA1E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -56,6 +56,21 @@
       "id": "ADE61F54-4731-4F7E-ADD6-0B3B946FD737"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 120.1111111111111,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 29,
+    "guttersOutside": false,
+    "horizontalOffset": 101,
+    "isEnabled": true,
+    "numberOfColumns": 9,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1313
+  },
   "name": "screen / medium collapsed filter state",
   "nameIsFixed": true,
   "resizesContent": false,

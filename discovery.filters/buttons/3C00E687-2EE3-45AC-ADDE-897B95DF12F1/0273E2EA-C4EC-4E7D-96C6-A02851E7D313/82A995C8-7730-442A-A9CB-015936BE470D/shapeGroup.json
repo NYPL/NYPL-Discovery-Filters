@@ -16,8 +16,8 @@
     "constrainProportions": false,
     "height": 10.76687174594351,
     "width": 10.70858315319317,
-    "x": 11.66713119026008,
-    "y": 12.60657506379658
+    "x": 110,
+    "y": 13
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -35,7 +35,7 @@
   "name": "Shape",
   "nameIsFixed": false,
   "originalObjectID": "419852E7-90E8-45DB-A994-7D41C1C5F635",
-  "resizingConstraint": 41,
+  "resizingConstraint": 44,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -48,9 +48,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.06666666666666667,
+          "green": 0.06666666666666667,
+          "red": 0.06666666666666667
         },
         "fillType": 0,
         "isEnabled": true,

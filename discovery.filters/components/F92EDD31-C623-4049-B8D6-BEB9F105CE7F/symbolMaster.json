@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 515,
+  "changeIdentifier": 1170,
   "do_objectID": "F92EDD31-C623-4049-B8D6-BEB9F105CE7F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 98,
     "width": 769,
-    "x": 567,
-    "y": 101
+    "x": 161,
+    "y": 983
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -56,6 +56,21 @@
       "id": "6224961D-50BC-42A4-BBBB-6DB1B29F23D5"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 90.66666666666667,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 3,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 320
+  },
   "name": "component / sort number lockup medium",
   "nameIsFixed": false,
   "resizesContent": false,
@@ -74,6 +89,8 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      69,
+      28
     ]
   }
 }

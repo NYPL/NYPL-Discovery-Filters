@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "do_objectID": "1FE3DC52-E85E-4AFB-A2CF-A34B3C92BB55",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 176,
+    "width": 549,
+    "x": 103,
+    "y": 572
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "193E552E-E9AE-4AE9-B685-AE18EDAA7B7F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CCA2C62B-CBFC-4260-894A-F34793EB8005"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1406394E-012A-4826-9738-A11D4E98D96C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "449A9124-5201-471B-A750-DD212865BAC2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C16AD538-62D0-418C-8145-A544FB53E0F0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "78EA9C39-4BC2-4488-AEB9-15526607AD2F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0C5E9A99-8618-4AE2-B12B-E8404FDFDBA6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E5479E94-4795-4643-877E-525994F6C332"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD0AD9CC-A747-495E-9CD1-AE513443E283"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD21BBBA-8AE2-47C3-A510-02D236782CCF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "82D7E18E-8123-4A23-8F20-97AEDD751086"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5DDDEE6E-6570-46B9-A596-0D2D067321CE"
+    },
+    {
+      "class": "text",
+      "id": "68379C95-737A-4783-8DCF-83D646AF01BA"
+    }
+  ],
+  "name": " Language Group",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

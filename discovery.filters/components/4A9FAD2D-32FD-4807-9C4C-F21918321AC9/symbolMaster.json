@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 496,
+  "changeIdentifier": 547,
   "do_objectID": "4A9FAD2D-32FD-4807-9C4C-F21918321AC9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -56,6 +56,21 @@
       "id": "6BDFF11C-40F4-4080-8C49-A355F9A37ADC"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 90.66666666666667,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 3,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 320
+  },
   "name": "component / sort number lockup small",
   "nameIsFixed": true,
   "resizesContent": true,

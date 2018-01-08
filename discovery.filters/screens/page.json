@@ -73,6 +73,21 @@
       "id": "A74CF06E-70EA-4083-AEBA-834ECD13B86B"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 120.1111111111111,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 29,
+    "guttersOutside": false,
+    "horizontalOffset": 101,
+    "isEnabled": true,
+    "numberOfColumns": 9,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1313
+  },
   "name": "screens",
   "nameIsFixed": true,
   "resizingConstraint": 63,

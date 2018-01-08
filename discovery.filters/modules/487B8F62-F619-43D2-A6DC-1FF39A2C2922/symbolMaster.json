@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 9377,
+  "changeIdentifier": 15154,
   "do_objectID": "487B8F62-F619-43D2-A6DC-1FF39A2C2922",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 1307,
     "width": 320,
-    "x": 3812,
-    "y": 55
+    "x": 2417,
+    "y": 69
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,63 +49,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "7E538EB1-0AC0-426E-9AED-73B08D1A06EF"
-    },
-    {
-      "class": "text",
-      "id": "124BFCBD-8CFD-47BB-BE86-08906CCCE737"
-    },
-    {
-      "class": "text",
-      "id": "325146ED-0BEA-4044-B16A-CBF2EC60237F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C8B39306-4084-4929-B707-E3EBEBE3F843"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5019B02B-4045-4C3E-AB23-20FE9FA4466C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "73007075-F954-4FCD-9CE9-713F3DAFDD64"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EAD71CBE-0E6A-4C14-AC90-177FA6614847"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AB063339-CF75-4486-AE0A-756AD3F23A03"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E4F38894-9401-4030-AB94-C762C25F51A8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DA00E147-ED4A-41C4-BCB3-9B4942B50265"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2124F1BC-4529-461D-BC90-DAEEA0AA76B5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "9AE89466-8EB3-4E81-8095-5DDEFC3DE858"
-    },
-    {
-      "class": "text",
-      "id": "9A714EF0-10B7-4221-9321-882A1AFF404B"
-    },
-    {
-      "class": "text",
-      "id": "8457CCD9-8BE7-4CFD-9C5D-12ABD446F688"
-    },
-    {
-      "class": "text",
-      "id": "4727CCF9-B023-4993-9D8F-BB863F8678D2"
+      "id": "B8680BB6-BECF-4D2F-A319-10DCE64B1141"
     },
     {
       "class": "text",
@@ -114,14 +58,6 @@
     {
       "class": "symbolInstance",
       "id": "1099C601-1B61-4697-BFBA-4462C7FB9187"
-    },
-    {
-      "class": "group",
-      "id": "9639E59B-BA01-47DC-BB4A-1EB3231CF661"
-    },
-    {
-      "class": "group",
-      "id": "0D0DB168-056F-4B40-A944-A08495401F0E"
     },
     {
       "class": "text",
@@ -144,14 +80,61 @@
       "id": "0027FA2A-69ED-4FDA-8F96-40ECD12A351A"
     },
     {
-      "class": "shapeGroup",
-      "id": "8FF03446-1761-495C-99F1-7D81339EC03A"
+      "class": "symbolInstance",
+      "id": "9B0CB1F5-B13C-43FC-9DA8-972A84E51200"
     },
     {
-      "class": "shapeGroup",
-      "id": "B939B0BA-A130-449C-AD49-FED976B460DB"
+      "class": "symbolInstance",
+      "id": "73D9B679-16AD-424B-A9F5-EB93E6BC97E6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C9CA16A1-E511-4E01-8973-074CDCD9D9DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "40D4904B-BFD8-4ECD-8A6B-6157C9F186D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7E538EB1-0AC0-426E-9AED-73B08D1A06EF"
+    },
+    {
+      "class": "text",
+      "id": "124BFCBD-8CFD-47BB-BE86-08906CCCE737"
+    },
+    {
+      "class": "text",
+      "id": "325146ED-0BEA-4044-B16A-CBF2EC60237F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B3DE9213-B7DE-4C2F-A25C-BEDF2BC6419B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "435DAC01-6823-4B22-83E2-47067E5FDC60"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "22498BE6-999A-4B42-AB2E-116A321E598B"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 91,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 16,
+    "gutterWidth": 15.66666666666667,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 3,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 320
+  },
   "name": "modules / search module active accordian ",
   "nameIsFixed": true,
   "resizesContent": false,
@@ -170,6 +153,11 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      90,
+      161,
+      223,
+      269,
+      308
     ]
   }
 }

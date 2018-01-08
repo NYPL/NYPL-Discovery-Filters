@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 934,
+  "changeIdentifier": 942,
   "do_objectID": "18A70D6E-C75B-4794-8A21-979DAED51801",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,6 +48,21 @@
       "id": "7F7F7A1E-1C58-4038-878B-82AE46FCA56C"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 90.66666666666667,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 3,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 320
+  },
   "name": "component / basic checkbox",
   "nameIsFixed": false,
   "resizesContent": false,

@@ -46,11 +46,19 @@
     },
     {
       "class": "symbolMaster",
+      "id": "F9A4E4DD-28AA-4C2C-86F3-8D7DFD868936"
+    },
+    {
+      "class": "symbolMaster",
       "id": "D8105EF7-25A8-425C-8F53-BCC96C451683"
     },
     {
       "class": "symbolMaster",
       "id": "3C00E687-2EE3-45AC-ADDE-897B95DF12F1"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F875AE68-C3CD-47F2-B958-0A4A87ACD9AA"
     }
   ],
   "name": "buttons",

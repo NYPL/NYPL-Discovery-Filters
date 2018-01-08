@@ -16,7 +16,7 @@
     "height": 1097,
     "width": 1440,
     "x": 0,
-    "y": 210
+    "y": 207
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -25,9 +25,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 3,
+  "masterInfluenceEdgeMaxYPadding": 897,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 2,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "modules / search module active accordian large",
   "nameIsFixed": false,
   "overrideValues": [
