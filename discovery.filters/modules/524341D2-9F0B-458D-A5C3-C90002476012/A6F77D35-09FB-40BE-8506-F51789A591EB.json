@@ -23,7 +23,11 @@
     "constrainProportions": false,
     "height": 15,
     "width": 668,
+<<<<<<< HEAD
     "x": 104,
+=======
+    "x": 42,
+>>>>>>> ec4d5627a6940dce722039a5986aa4bf35e0b002
     "y": 21
   },
   "glyphBounds": "{{0, 2}, {328, 17}}",

@@ -22,9 +22,15 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 34,
+<<<<<<< HEAD
     "width": 305,
     "x": 7,
     "y": 13
+=======
+    "width": 291,
+    "x": 21,
+    "y": 22
+>>>>>>> ec4d5627a6940dce722039a5986aa4bf35e0b002
   },
   "glyphBounds": "{{0, 2}, {268, 33}}",
   "heightIsClipped": true,

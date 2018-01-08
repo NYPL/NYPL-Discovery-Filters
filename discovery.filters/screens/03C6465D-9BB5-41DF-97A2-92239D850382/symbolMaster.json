@@ -7,7 +7,11 @@
     "green": 1,
     "red": 1
   },
+<<<<<<< HEAD
   "changeIdentifier": 6998,
+=======
+  "changeIdentifier": 1238,
+>>>>>>> ec4d5627a6940dce722039a5986aa4bf35e0b002
   "do_objectID": "03C6465D-9BB5-41DF-97A2-92239D850382",
   "exportOptions": {
     "_class": "exportOptions",
@@ -33,7 +37,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -64,11 +68,16 @@
   ],
   "layout": {
     "_class": "layoutGrid",
+<<<<<<< HEAD
     "columnWidth": 120.1111111111111,
+=======
+    "columnWidth": 87.66666666666667,
+>>>>>>> ec4d5627a6940dce722039a5986aa4bf35e0b002
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 12,
+<<<<<<< HEAD
     "gutterWidth": 29,
     "guttersOutside": false,
     "horizontalOffset": 0,
@@ -76,6 +85,15 @@
     "numberOfColumns": 9,
     "rowHeightMultiplication": 5,
     "totalWidth": 1313
+=======
+    "gutterWidth": 19,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 3,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 320
+>>>>>>> ec4d5627a6940dce722039a5986aa4bf35e0b002
   },
   "name": "screen / small active filter state",
   "nameIsFixed": false,

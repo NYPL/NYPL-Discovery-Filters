@@ -13,10 +13,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+<<<<<<< HEAD:discovery.filters/modules/524341D2-9F0B-458D-A5C3-C90002476012/35EFC788-B7EE-4AD5-AC6B-E4981B86E3EA.json
     "height": 36,
     "width": 149,
     "x": 105,
     "y": 788
+=======
+    "height": 37,
+    "width": 193,
+    "x": 42,
+    "y": 186
+>>>>>>> ec4d5627a6940dce722039a5986aa4bf35e0b002:discovery.filters/modules/524341D2-9F0B-458D-A5C3-C90002476012/7DA44BC3-20D6-4AAF-A7ED-8B3880900A28.json
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,

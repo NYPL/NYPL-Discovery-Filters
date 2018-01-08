@@ -7,7 +7,11 @@
     "green": 1,
     "red": 1
   },
+<<<<<<< HEAD
   "changeIdentifier": 15154,
+=======
+  "changeIdentifier": 9860,
+>>>>>>> ec4d5627a6940dce722039a5986aa4bf35e0b002
   "do_objectID": "487B8F62-F619-43D2-A6DC-1FF39A2C2922",
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,6 +53,7 @@
     },
     {
       "class": "symbolInstance",
+<<<<<<< HEAD
       "id": "B8680BB6-BECF-4D2F-A319-10DCE64B1141"
     },
     {
@@ -62,6 +67,9 @@
     {
       "class": "text",
       "id": "9775D831-61AB-4512-9866-A10733636235"
+=======
+      "id": "5019B02B-4045-4C3E-AB23-20FE9FA4466C"
+>>>>>>> ec4d5627a6940dce722039a5986aa4bf35e0b002
     },
     {
       "class": "symbolInstance",
@@ -116,8 +124,29 @@
       "id": "435DAC01-6823-4B22-83E2-47067E5FDC60"
     },
     {
+<<<<<<< HEAD
       "class": "symbolInstance",
       "id": "22498BE6-999A-4B42-AB2E-116A321E598B"
+=======
+      "class": "shapeGroup",
+      "id": "B939B0BA-A130-449C-AD49-FED976B460DB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C8B39306-4084-4929-B707-E3EBEBE3F843"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7E538EB1-0AC0-426E-9AED-73B08D1A06EF"
+    },
+    {
+      "class": "text",
+      "id": "124BFCBD-8CFD-47BB-BE86-08906CCCE737"
+    },
+    {
+      "class": "text",
+      "id": "325146ED-0BEA-4044-B16A-CBF2EC60237F"
+>>>>>>> ec4d5627a6940dce722039a5986aa4bf35e0b002
     }
   ],
   "layout": {
