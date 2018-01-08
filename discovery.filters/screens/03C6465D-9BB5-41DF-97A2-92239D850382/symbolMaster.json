@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 669,
+  "changeIdentifier": 1238,
   "do_objectID": "03C6465D-9BB5-41DF-97A2-92239D850382",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,8 +26,14 @@
     "x": 6602,
     "y": 4496
   },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -56,6 +62,21 @@
       "id": "4A372022-0101-47C9-AC8B-564695A78546"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 87.66666666666667,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 19,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 3,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 320
+  },
   "name": "screen / small active filter state",
   "nameIsFixed": false,
   "resizesContent": false,

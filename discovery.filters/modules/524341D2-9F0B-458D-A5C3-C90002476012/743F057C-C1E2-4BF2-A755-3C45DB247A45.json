@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 39,
-    "width": 193,
+    "height": 30,
+    "width": 280,
     "x": 42,
-    "y": 80
+    "y": 60
   },
   "glyphBounds": "{{1, 8}, {191, 23}}",
-  "heightIsClipped": false,
+  "heightIsClipped": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -65,5 +65,5 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

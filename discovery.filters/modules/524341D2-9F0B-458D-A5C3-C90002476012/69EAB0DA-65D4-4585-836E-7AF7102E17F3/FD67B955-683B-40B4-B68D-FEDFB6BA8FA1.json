@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "B43DB446-1CA1-461D-8DEA-8B8CC52CA74A",
+  "do_objectID": "FD67B955-683B-40B4-B68D-FEDFB6BA8FA1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 15,
     "width": 164,
-    "x": 42,
-    "y": 376
+    "x": 0,
+    "y": 192
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 2,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 2,
-  "name": "component / checkbox text lockup",
+  "name": "component / checkbox text lockup copy 12",
   "nameIsFixed": false,
   "overrideValues": [
   ],
