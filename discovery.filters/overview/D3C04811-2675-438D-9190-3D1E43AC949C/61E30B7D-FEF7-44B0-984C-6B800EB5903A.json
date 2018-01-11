@@ -13,23 +13,24 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1930,
+    "height": 2496,
     "width": 320,
     "x": 710,
-    "y": 97
+    "y": 166
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 572,
+  "masterInfluenceEdgeMaxYPadding": 14,
   "masterInfluenceEdgeMinXPadding": 4,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 9,
   "name": "screen / small active filter state",
   "nameIsFixed": false,
+  "originalObjectID": "03C6465D-9BB5-41DF-97A2-92239D850382",
   "overrideValues": [
   ],
   "overrides": {

@@ -1,0 +1,113 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 10462,
+  "do_objectID": "7136A3E6-9C6D-499D-8573-6AE7D78E23A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1024,
+    "width": 768,
+    "x": 1190,
+    "y": 2074
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      47
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "536F532C-7FA1-4003-8633-4CFBE08C57BE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D3731710-6A31-46F8-B5FA-666DFAD5BDC8"
+    },
+    {
+      "class": "text",
+      "id": "8DB975D3-520F-4B18-B68F-465AC7EEB569"
+    },
+    {
+      "class": "text",
+      "id": "B98BE0E6-685D-4EC5-B45C-5F2B35C8C410"
+    },
+    {
+      "class": "group",
+      "id": "D282083A-C1D6-4090-B599-4BBEE8B08976"
+    },
+    {
+      "class": "group",
+      "id": "2AB8043E-C125-4705-AC4C-418D19D46E72"
+    },
+    {
+      "class": "group",
+      "id": "AF0412CF-E0C3-4ECF-B293-62588C9BAF4D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "59CF43D5-0E9F-417D-915F-0CB04BC36F89"
+    },
+    {
+      "class": "text",
+      "id": "CED2EF98-0300-4374-B6E0-E111CC428F13"
+    },
+    {
+      "class": "text",
+      "id": "586C60B8-C21C-45DA-B712-971CC0F3C5C6"
+    }
+  ],
+  "name": "v4 - 4 - results refined copy 2",
+  "nameIsFixed": true,
+  "originalObjectID": "7136A3E6-9C6D-499D-8573-6AE7D78E23A1",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "21CC09AE-394B-43E1-AF0E-6ECA71031FAB",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      89,
+      354,
+      173,
+      274
+    ]
+  }
+}

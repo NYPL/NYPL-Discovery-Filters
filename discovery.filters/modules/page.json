@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolMaster",
@@ -58,7 +58,7 @@
     },
     {
       "class": "symbolMaster",
-      "id": "CCBDF4D7-8A5D-4684-AFC4-D09B97EC5057"
+      "id": "F4191885-B12A-4244-99BE-AF0C0D6BF35D"
     },
     {
       "class": "symbolMaster",

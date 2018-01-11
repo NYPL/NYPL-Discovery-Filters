@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 135,
     "width": 164,
-    "x": 721,
-    "y": 36
+    "x": 640,
+    "y": 35
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -44,6 +44,7 @@
   ],
   "name": "Group",
   "nameIsFixed": false,
+  "originalObjectID": "207DCA66-2655-4F49-A909-9289C4BC6844",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -35,7 +35,7 @@
     "y": 496
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -83,6 +83,11 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

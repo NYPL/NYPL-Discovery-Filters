@@ -27,9 +27,10 @@
   "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 2,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 3,
+  "masterInfluenceEdgeMinYPadding": 2,
   "name": "component / checkbox text lockup copy 17",
   "nameIsFixed": false,
+  "originalObjectID": "8EE3BF84-EE05-4DA9-B5CA-0D265EEA94C3",
   "overrideValues": [
   ],
   "overrides": {

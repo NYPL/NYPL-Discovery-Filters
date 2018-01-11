@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 270,
+    "height": 258,
     "width": 561,
     "x": 103,
-    "y": 233
+    "y": 245
   },
   "hasClickThrough": true,
   "isFlippedHorizontal": false,
@@ -36,6 +36,7 @@
   ],
   "name": "Format Group",
   "nameIsFixed": true,
+  "originalObjectID": "3E69CEF2-8158-4F3C-9F1C-AD6067177C2C",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

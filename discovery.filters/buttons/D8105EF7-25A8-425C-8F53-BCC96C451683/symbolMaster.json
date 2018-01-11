@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 330,
+  "changeIdentifier": 334,
   "do_objectID": "D8105EF7-25A8-425C-8F53-BCC96C451683",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,6 +50,7 @@
   ],
   "name": "icon / check solo white",
   "nameIsFixed": true,
+  "originalObjectID": "D8105EF7-25A8-425C-8F53-BCC96C451683",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -62,6 +63,11 @@
     "startDecorationType": 0
   },
   "symbolID": "FEAE1CC4-BBB9-48FB-AD34-5B80F67B1177",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

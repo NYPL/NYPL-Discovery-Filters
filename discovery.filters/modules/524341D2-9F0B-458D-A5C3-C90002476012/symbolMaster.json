@@ -7,11 +7,7 @@
     "green": 1,
     "red": 1
   },
-<<<<<<< HEAD
-  "changeIdentifier": 14848,
-=======
-  "changeIdentifier": 8734,
->>>>>>> ec4d5627a6940dce722039a5986aa4bf35e0b002
+  "changeIdentifier": 16417,
   "do_objectID": "524341D2-9F0B-458D-A5C3-C90002476012",
   "exportOptions": {
     "_class": "exportOptions",
@@ -25,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 948,
+    "height": 960,
     "width": 768,
     "x": 3090,
-    "y": 491
+    "y": 567
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,11 +42,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "761C209C-AC9D-40AE-A345-27D15652B396"
+      "class": "symbolInstance",
+      "id": "53328019-D25B-4B5C-B772-3080F5E12976"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "04A05F0C-33B8-4501-B041-F5E92CD2DD3D"
     },
     {
       "class": "text",
@@ -65,83 +65,16 @@
       "id": "1D950316-6E5F-44DE-9EEB-EADBC1995561"
     },
     {
-<<<<<<< HEAD
-=======
-      "class": "group",
-      "id": "72B3DD2D-EA19-46D7-B140-F1065DBB4856"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7DA44BC3-20D6-4AAF-A7ED-8B3880900A28"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "193E552E-E9AE-4AE9-B685-AE18EDAA7B7F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CCA2C62B-CBFC-4260-894A-F34793EB8005"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "449A9124-5201-471B-A750-DD212865BAC2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C16AD538-62D0-418C-8145-A544FB53E0F0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0C5E9A99-8618-4AE2-B12B-E8404FDFDBA6"
-    },
-    {
->>>>>>> ec4d5627a6940dce722039a5986aa4bf35e0b002
       "class": "symbolInstance",
       "id": "14D6722D-96C4-4259-B565-F371CB200575"
     },
     {
       "class": "symbolInstance",
-<<<<<<< HEAD
       "id": "00880AA9-0530-4735-8B1F-A123E7AF3565"
     },
     {
       "class": "symbolInstance",
       "id": "927E1109-8666-4FA4-A284-05543120BFD6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7501F12A-A241-4284-B157-8E0CC4A4C0C9"
-=======
-      "id": "FD21BBBA-8AE2-47C3-A510-02D236782CCF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "82D7E18E-8123-4A23-8F20-97AEDD751086"
-    },
-    {
-      "class": "text",
-      "id": "698BDD5D-AF62-44FB-B0BE-7A861A169AAC"
-    },
-    {
-      "class": "group",
-      "id": "69EAB0DA-65D4-4585-836E-7AF7102E17F3"
-    },
-    {
-      "class": "text",
-      "id": "68379C95-737A-4783-8DCF-83D646AF01BA"
-    },
-    {
-      "class": "text",
-      "id": "8E04B399-E4A3-413A-97F2-40377D05FDB8"
-    },
-    {
-      "class": "text",
-      "id": "62D1DF31-FB95-430F-8D25-A16FE79B29C4"
->>>>>>> ec4d5627a6940dce722039a5986aa4bf35e0b002
-    },
-    {
-      "class": "symbolInstance",
-      "id": "35EFC788-B7EE-4AD5-AC6B-E4981B86E3EA"
     },
     {
       "class": "group",
@@ -154,6 +87,18 @@
     {
       "class": "group",
       "id": "7BB40988-C23B-4190-88F3-9B916DC14741"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD53BA2F-B731-40E1-9F1D-560447499B60"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "20207429-EC88-4493-9061-C679C07CC71B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "09CABB7C-FDD5-4567-A401-D098F7F0C32F"
     }
   ],
   "layout": {
@@ -173,6 +118,7 @@
   },
   "name": "modules / search module active accordian medium",
   "nameIsFixed": true,
+  "originalObjectID": "524341D2-9F0B-458D-A5C3-C90002476012",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -185,20 +131,21 @@
     "startDecorationType": 0
   },
   "symbolID": "55C47BFF-F3C7-429A-AC97-BFDAAF23E313",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
       36,
-<<<<<<< HEAD
       90,
       162,
       207,
       269,
       309
-=======
-      90
->>>>>>> ec4d5627a6940dce722039a5986aa4bf35e0b002
     ]
   }
 }

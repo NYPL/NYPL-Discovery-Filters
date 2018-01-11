@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1693,
+  "changeIdentifier": 1700,
   "do_objectID": "12CDE5FF-D578-478A-9A0A-A98D77C70248",
   "exportOptions": {
     "_class": "exportOptions",
@@ -82,6 +82,7 @@
   ],
   "name": "UX Doc/ Content Inventory/ Line Item",
   "nameIsFixed": false,
+  "originalObjectID": "12CDE5FF-D578-478A-9A0A-A98D77C70248",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -94,6 +95,11 @@
     "startDecorationType": 0
   },
   "symbolID": "92EA4406-4E02-4C3F-B4A8-FD1BB399E313",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

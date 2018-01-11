@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CF0E58C1-767A-4F9C-AF9C-C96C3D7A0569",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 27,
+    "width": 131,
+    "x": 470,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "buttons / med filter item",
+  "nameIsFixed": false,
+  "originalObjectID": "CF0E58C1-767A-4F9C-AF9C-C96C3D7A0569",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C261D2DC-05DC-4C7F-A34C-CBBA677D129B",
+      "overrideName": "8FFF946D-17B2-46CF-B114-290168CB02A5_stringValue",
+      "value": "Clear All Filters"
+    }
+  ],
+  "overrides": {
+    "8FFF946D-17B2-46CF-B114-290168CB02A5": "Clear All Filters"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1EB85666-EA7E-4C1A-941C-DD4C16E01F5C",
+  "verticalSpacing": 0
+}

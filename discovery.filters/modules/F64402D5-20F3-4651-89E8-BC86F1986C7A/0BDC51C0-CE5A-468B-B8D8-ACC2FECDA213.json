@@ -25,11 +25,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 2,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 2,
   "name": "component / sort number lockup large",
   "nameIsFixed": false,
+  "originalObjectID": "0BDC51C0-CE5A-468B-B8D8-ACC2FECDA213",
   "overrideValues": [
   ],
   "overrides": {
@@ -45,6 +46,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "DEB004F5-16A6-4CBE-A819-AAB8B394E1A8",
+  "symbolID": "5621D386-9FB0-403A-8264-AA7ADB1C176D",
   "verticalSpacing": 0
 }

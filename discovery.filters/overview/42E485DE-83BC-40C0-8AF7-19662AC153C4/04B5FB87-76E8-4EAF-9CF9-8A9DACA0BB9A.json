@@ -23,13 +23,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "over-view / Instruction Block",
   "nameIsFixed": false,
+  "originalObjectID": "A0050B31-9E6A-47EB-A73F-AB2679465F30",
   "overrideValues": [
     {
       "_class": "overrideValue",

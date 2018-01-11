@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 372,
+  "changeIdentifier": 428,
   "do_objectID": "A1BF3B65-35D8-4B66-AEE3-9DA1B7E62573",
   "exportOptions": {
     "_class": "exportOptions",
@@ -65,6 +65,7 @@
   },
   "name": "component / Checkbox Group single column",
   "nameIsFixed": true,
+  "originalObjectID": "A1BF3B65-35D8-4B66-AEE3-9DA1B7E62573",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -77,6 +78,11 @@
     "startDecorationType": 0
   },
   "symbolID": "E06CE374-284D-4937-8DB6-0A3478409653",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

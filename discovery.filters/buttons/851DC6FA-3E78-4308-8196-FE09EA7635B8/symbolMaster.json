@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1878,
+  "changeIdentifier": 1916,
   "do_objectID": "851DC6FA-3E78-4308-8196-FE09EA7635B8",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -113
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,8 +44,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "216A235C-6B85-473D-BB65-56D2F8CC29E2"
+      "class": "group",
+      "id": "E8EB7495-C47E-473B-B427-2BDBEBEC0B1E"
     },
     {
       "class": "text",
@@ -54,6 +54,7 @@
   ],
   "name": "buttons / omni-search button",
   "nameIsFixed": false,
+  "originalObjectID": "851DC6FA-3E78-4308-8196-FE09EA7635B8",
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -66,6 +67,11 @@
     "startDecorationType": 0
   },
   "symbolID": "6335286B-0757-4E23-AF1E-820E61EEF00F",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

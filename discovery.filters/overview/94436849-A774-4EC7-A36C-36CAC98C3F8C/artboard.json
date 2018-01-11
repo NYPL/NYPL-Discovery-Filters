@@ -20,8 +20,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 1315,
+    "height": 1496,
+    "width": 1744,
     "x": 1200,
     "y": 496
   },
@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -52,6 +52,10 @@
     {
       "class": "text",
       "id": "5B3C2B04-1DE3-47C2-A2E8-31B12D007B85"
+    },
+    {
+      "class": "text",
+      "id": "7493F078-E41D-4C70-A3C9-3F4D48995430"
     }
   ],
   "name": "checklist",
@@ -66,6 +70,11 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

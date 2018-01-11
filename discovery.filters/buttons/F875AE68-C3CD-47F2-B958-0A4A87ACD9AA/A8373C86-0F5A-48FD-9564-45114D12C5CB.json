@@ -15,7 +15,7 @@
     "constrainProportions": false,
     "height": 26,
     "width": 26,
-    "x": 106,
+    "x": 105,
     "y": 6
   },
   "horizontalSpacing": 0,
@@ -30,15 +30,25 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "icon / check solo copy",
   "nameIsFixed": false,
+  "originalObjectID": "A8373C86-0F5A-48FD-9564-45114D12C5CB",
   "overrideValues": [
     {
       "_class": "overrideValue",
       "do_objectID": "A09071F6-735D-433A-B14E-7E9664BBA5CB",
       "overrideName": "F54CC122-321A-4C9A-BC4C-0B5B6A69FC9C_symbolID",
       "value": "726B4C4B-0AD2-43B5-B941-3D67B7A37B67"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5714E205-6B9F-4145-B6D0-F6327A31AC63",
+      "overrideName": "1D60C747-6D4F-473A-B01E-8F9C08B5363B_symbolID",
+      "value": "938771C3-D97C-4D47-88EC-AEFEE82A6515"
     }
   ],
   "overrides": {
+    "1D60C747-6D4F-473A-B01E-8F9C08B5363B": {
+      "symbolID": "938771C3-D97C-4D47-88EC-AEFEE82A6515"
+    },
     "F54CC122-321A-4C9A-BC4C-0B5B6A69FC9C": {
       "symbolID": "726B4C4B-0AD2-43B5-B941-3D67B7A37B67"
     }

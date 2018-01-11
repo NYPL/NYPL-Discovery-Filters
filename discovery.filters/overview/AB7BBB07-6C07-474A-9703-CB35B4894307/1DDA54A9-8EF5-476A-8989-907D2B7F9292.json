@@ -23,13 +23,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "over-view / project title",
   "nameIsFixed": false,
+  "originalObjectID": "945C6AD2-254C-4128-B344-C207218032DA",
   "overrideValues": [
   ],
   "overrides": {

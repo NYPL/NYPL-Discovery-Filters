@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 72,
+  "changeIdentifier": 76,
   "do_objectID": "8FB9FB54-0A57-4723-89A9-392ECECF61CC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,6 +54,7 @@
   ],
   "name": "UX Doc/ Content Inventory/ Status/ No Change",
   "nameIsFixed": true,
+  "originalObjectID": "8FB9FB54-0A57-4723-89A9-392ECECF61CC",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -67,6 +68,9 @@
   },
   "symbolID": "630583C5-143E-4E2F-89FE-C094D76B67F0",
   "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    },
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }

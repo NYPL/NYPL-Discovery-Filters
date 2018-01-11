@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 381,
+  "changeIdentifier": 430,
   "do_objectID": "050E0474-F3D1-476D-9660-32141E3DE15C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 28,
     "width": 280,
-    "x": -233,
-    "y": 161
+    "x": -220,
+    "y": -151
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -65,6 +65,7 @@
   },
   "name": "text / h3",
   "nameIsFixed": true,
+  "originalObjectID": "050E0474-F3D1-476D-9660-32141E3DE15C",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -77,6 +78,11 @@
     "startDecorationType": 0
   },
   "symbolID": "64AA1656-3625-4A43-9FC9-810B2073A19D",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -56,6 +56,7 @@
   ],
   "name": "Format Group",
   "nameIsFixed": true,
+  "originalObjectID": "56CA230A-5EB3-477D-BD01-5E97B084E6D4",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

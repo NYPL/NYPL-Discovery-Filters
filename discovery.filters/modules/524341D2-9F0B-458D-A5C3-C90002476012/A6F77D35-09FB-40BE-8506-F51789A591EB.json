@@ -23,11 +23,7 @@
     "constrainProportions": false,
     "height": 15,
     "width": 668,
-<<<<<<< HEAD
     "x": 104,
-=======
-    "x": 42,
->>>>>>> ec4d5627a6940dce722039a5986aa4bf35e0b002
     "y": 21
   },
   "glyphBounds": "{{0, 2}, {328, 17}}",
@@ -40,6 +36,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Shared Collection Ca",
   "nameIsFixed": false,
+  "originalObjectID": "A6F77D35-09FB-40BE-8506-F51789A591EB",
   "resizingConstraint": 59,
   "resizingType": 0,
   "rotation": 0,

@@ -16,7 +16,7 @@
     "height": 98,
     "width": 769,
     "x": 0,
-    "y": 849
+    "y": 861
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -25,11 +25,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 3,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 2,
   "name": "component / sort number lockup medium v2",
   "nameIsFixed": false,
+  "originalObjectID": "14D6722D-96C4-4259-B565-F371CB200575",
   "overrideValues": [
   ],
   "overrides": {

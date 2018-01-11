@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 48,
     "width": 279,
-    "x": 21,
-    "y": 146
+    "x": 9,
+    "y": 116
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,6 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "component / search / multi",
   "nameIsFixed": false,
+  "originalObjectID": "48044DDD-83AC-4AF5-956C-C53B7DE12920",
   "overrideValues": [
     {
       "_class": "overrideValue",

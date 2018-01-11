@@ -34,49 +34,13 @@
   ],
   "name": "Rectangle 4",
   "nameIsFixed": false,
+  "originalObjectID": "5122EDD6-D73F-4F57-BCDA-C7ABE6DE2969",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 1
-      }
-    ],
-    "endDecorationType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.2274509803921567,
-          "green": 0.2039215686274509,
-          "red": 0.8156862745098039
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
-    "miterLimit": 10,
-    "startDecorationType": 0
+    "sharedObjectID": "59791846-9BB8-41C5-AAF8-50744ED20679"
   },
   "windingRule": 1
 }

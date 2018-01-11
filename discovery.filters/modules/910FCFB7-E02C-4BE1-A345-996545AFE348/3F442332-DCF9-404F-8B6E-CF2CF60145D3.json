@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 48,
-    "width": 885,
-    "x": 213,
+    "width": 936,
+    "x": 172,
     "y": 127
   },
   "horizontalSpacing": 0,
@@ -30,6 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "component / search multiple type copy",
   "nameIsFixed": false,
+  "originalObjectID": "3F442332-DCF9-404F-8B6E-CF2CF60145D3",
   "overrideValues": [
     {
       "_class": "overrideValue",

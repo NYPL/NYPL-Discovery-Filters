@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 36,
     "width": 120,
-    "x": 20,
-    "y": 283
+    "x": 8,
+    "y": 324
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,6 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "buttons / cancel filter",
   "nameIsFixed": false,
+  "originalObjectID": "45576C5E-C98D-4E90-B59F-D8B7387E63AA",
   "overrideValues": [
     {
       "_class": "overrideValue",

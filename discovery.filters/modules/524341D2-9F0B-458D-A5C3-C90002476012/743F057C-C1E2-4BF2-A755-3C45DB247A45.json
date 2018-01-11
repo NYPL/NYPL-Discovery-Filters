@@ -23,11 +23,7 @@
     "constrainProportions": false,
     "height": 30,
     "width": 280,
-<<<<<<< HEAD
     "x": 104,
-=======
-    "x": 42,
->>>>>>> ec4d5627a6940dce722039a5986aa4bf35e0b002
     "y": 60
   },
   "glyphBounds": "{{1, 8}, {191, 23}}",
@@ -40,6 +36,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Search Results Copy",
   "nameIsFixed": false,
+  "originalObjectID": "743F057C-C1E2-4BF2-A755-3C45DB247A45",
   "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,

@@ -24,7 +24,7 @@
     "height": 38,
     "width": 149,
     "x": 156,
-    "y": 20
+    "y": 35
   },
   "glyphBounds": "{{1, 2}, {146, 17}}",
   "heightIsClipped": true,
@@ -32,7 +32,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "lineSpacingBehaviour": 2,
   "name": "Language Filtering",
   "nameIsFixed": false,

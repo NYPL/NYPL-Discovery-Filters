@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1815,
+  "changeIdentifier": 1823,
   "do_objectID": "F9A4E4DD-28AA-4C2C-86F3-8D7DFD868936",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -17
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -58,6 +58,7 @@
   ],
   "name": "buttons / set filter control kill",
   "nameIsFixed": true,
+  "originalObjectID": "F9A4E4DD-28AA-4C2C-86F3-8D7DFD868936",
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -70,6 +71,11 @@
     "startDecorationType": 0
   },
   "symbolID": "15539951-1443-4B5F-8370-1448D6613E90",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

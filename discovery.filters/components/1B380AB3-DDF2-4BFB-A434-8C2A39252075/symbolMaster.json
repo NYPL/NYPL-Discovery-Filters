@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 278,
+  "changeIdentifier": 284,
   "do_objectID": "1B380AB3-DDF2-4BFB-A434-8C2A39252075",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 74
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,6 +50,7 @@
   ],
   "name": "component / simple hr",
   "nameIsFixed": false,
+  "originalObjectID": "1B380AB3-DDF2-4BFB-A434-8C2A39252075",
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -62,6 +63,11 @@
     "startDecorationType": 0
   },
   "symbolID": "2E4AFF89-F95C-4B93-9301-34C796F5AC85",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

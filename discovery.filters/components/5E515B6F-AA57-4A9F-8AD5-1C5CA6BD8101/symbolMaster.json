@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 461,
+  "changeIdentifier": 471,
   "do_objectID": "5E515B6F-AA57-4A9F-8AD5-1C5CA6BD8101",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 257
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -81,6 +81,7 @@
   },
   "name": "component /sorting drop down v2",
   "nameIsFixed": true,
+  "originalObjectID": "5E515B6F-AA57-4A9F-8AD5-1C5CA6BD8101",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -93,6 +94,11 @@
     "startDecorationType": 0
   },
   "symbolID": "091CCB0D-98E7-4A47-ACE5-A512CA7EF5DA",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

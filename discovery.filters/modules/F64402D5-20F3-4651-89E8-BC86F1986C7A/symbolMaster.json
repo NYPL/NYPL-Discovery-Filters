@@ -7,11 +7,7 @@
     "green": 1,
     "red": 1
   },
-<<<<<<< HEAD
-  "changeIdentifier": 3391,
-=======
-  "changeIdentifier": 2513,
->>>>>>> ec4d5627a6940dce722039a5986aa4bf35e0b002
+  "changeIdentifier": 5557,
   "do_objectID": "F64402D5-20F3-4651-89E8-BC86F1986C7A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,8 +44,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "BE6A0943-3B9E-431B-8980-E8DC64BDA026"
+      "class": "symbolInstance",
+      "id": "FB4B79FC-132F-4A3B-B6E5-E5A0DA3E1FD5"
     },
     {
       "class": "symbolInstance",
@@ -65,15 +61,31 @@
     },
     {
       "class": "symbolInstance",
-      "id": "FA102EA7-7CF5-4D92-AAE8-983EA359F7C3"
+      "id": "0BDC51C0-CE5A-468B-B8D8-ACC2FECDA213"
     },
     {
       "class": "symbolInstance",
-      "id": "0BDC51C0-CE5A-468B-B8D8-ACC2FECDA213"
+      "id": "64BEEF14-D03D-475D-B792-CCB9FAE8D31C"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 128,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 32,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 9,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1440
+  },
   "name": "modules / search module results large",
   "nameIsFixed": true,
+  "originalObjectID": "F64402D5-20F3-4651-89E8-BC86F1986C7A",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -86,6 +98,11 @@
     "startDecorationType": 0
   },
   "symbolID": "51999635-1510-495F-A04E-642FA19F748D",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

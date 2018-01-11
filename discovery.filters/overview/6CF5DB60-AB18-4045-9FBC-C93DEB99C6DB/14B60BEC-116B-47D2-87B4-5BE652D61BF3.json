@@ -16,20 +16,21 @@
     "height": 1103,
     "width": 320,
     "x": 684,
-    "y": 118
+    "y": 177
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 13,
-  "masterInfluenceEdgeMinYPadding": 13,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "screen / small initial state",
   "nameIsFixed": false,
+  "originalObjectID": "7C76C70F-47D2-4E5C-85DD-A91D902DC50E",
   "overrideValues": [
   ],
   "overrides": {

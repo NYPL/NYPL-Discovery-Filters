@@ -14,7 +14,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 627,
+    "height": 496,
     "width": 320,
     "x": 0,
     "y": 0
@@ -34,6 +34,7 @@
   ],
   "name": "Rectangle 3",
   "nameIsFixed": false,
+  "originalObjectID": "A988882B-FE14-4C56-A4EB-9106F3C7F441",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

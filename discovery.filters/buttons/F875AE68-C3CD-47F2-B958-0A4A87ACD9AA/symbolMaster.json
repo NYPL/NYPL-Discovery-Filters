@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 456,
+  "changeIdentifier": 500,
   "do_objectID": "F875AE68-C3CD-47F2-B958-0A4A87ACD9AA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -44,8 +44,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "53C58066-5A05-4A06-8787-4E7ECF93530D"
+      "class": "group",
+      "id": "88B78B8F-636D-4F01-9DD6-7E67DDDC9699"
     },
     {
       "class": "text",
@@ -58,6 +58,7 @@
   ],
   "name": "buttons / set filter control",
   "nameIsFixed": true,
+  "originalObjectID": "F875AE68-C3CD-47F2-B958-0A4A87ACD9AA",
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -70,6 +71,11 @@
     "startDecorationType": 0
   },
   "symbolID": "4D8C12FF-CD3B-4121-99E3-668725E2DB2A",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

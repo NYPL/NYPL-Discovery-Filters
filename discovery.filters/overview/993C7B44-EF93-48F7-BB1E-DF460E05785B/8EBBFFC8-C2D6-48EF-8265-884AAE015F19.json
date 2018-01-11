@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1824,
+    "height": 3452,
     "width": 320,
     "x": 714,
     "y": 85
@@ -23,13 +23,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 2,
+  "masterInfluenceEdgeMinXPadding": 4,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "screen / small set filter",
   "nameIsFixed": false,
+  "originalObjectID": "A9E8E1E2-15E1-4430-8986-CFE8BA041B15",
   "overrideValues": [
   ],
   "overrides": {

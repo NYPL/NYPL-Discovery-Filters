@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 460,
+  "changeIdentifier": 465,
   "do_objectID": "945C6AD2-254C-4128-B344-C207218032DA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -58,6 +58,7 @@
   ],
   "name": "document / project title",
   "nameIsFixed": true,
+  "originalObjectID": "945C6AD2-254C-4128-B344-C207218032DA",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -70,6 +71,11 @@
     "startDecorationType": 0
   },
   "symbolID": "0F96D989-A8C0-45B9-802B-58C12E901B3D",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

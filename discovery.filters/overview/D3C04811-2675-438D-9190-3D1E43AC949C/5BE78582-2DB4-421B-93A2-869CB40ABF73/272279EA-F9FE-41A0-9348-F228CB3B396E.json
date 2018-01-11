@@ -24,7 +24,7 @@
     "height": 38,
     "width": 337,
     "x": 61,
-    "y": 77
+    "y": 113
   },
   "glyphBounds": "{{1, 2}, {321, 17}}",
   "heightIsClipped": true,
@@ -32,7 +32,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "lineSpacingBehaviour": 2,
   "name": "Check Boxes select l",
   "nameIsFixed": false,

@@ -14,16 +14,16 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 171,
-    "width": 885,
-    "x": 213,
-    "y": 715
+    "width": 804,
+    "x": 172,
+    "y": 608
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -44,6 +44,7 @@
   ],
   "name": "language",
   "nameIsFixed": true,
+  "originalObjectID": "A6EABB21-7DF3-4C77-A05B-8DC23E8B4A32",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 692,
+  "changeIdentifier": 749,
   "do_objectID": "97E2054D-80E3-4AAC-A922-33B66C8B7843",
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,6 +54,7 @@
   ],
   "name": "component / Cancel Apply Lockup",
   "nameIsFixed": false,
+  "originalObjectID": "97E2054D-80E3-4AAC-A922-33B66C8B7843",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -66,6 +67,11 @@
     "startDecorationType": 0
   },
   "symbolID": "9A9BC1AD-AD53-4168-94BE-D1D0670F46EA",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

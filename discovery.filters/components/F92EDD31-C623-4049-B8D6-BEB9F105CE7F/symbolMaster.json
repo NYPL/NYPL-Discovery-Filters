@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1170,
+  "changeIdentifier": 1219,
   "do_objectID": "F92EDD31-C623-4049-B8D6-BEB9F105CE7F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -44,8 +44,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "EB61472B-86B3-4A8A-8962-0EAB668E767C"
+      "class": "symbolInstance",
+      "id": "33B6A040-7A0E-4290-9146-DE220CA2F92C"
     },
     {
       "class": "text",
@@ -73,6 +73,7 @@
   },
   "name": "component / sort number lockup medium",
   "nameIsFixed": false,
+  "originalObjectID": "F92EDD31-C623-4049-B8D6-BEB9F105CE7F",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -85,6 +86,11 @@
     "startDecorationType": 0
   },
   "symbolID": "42260310-4C67-4A7C-B67A-2EB954FC5262",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

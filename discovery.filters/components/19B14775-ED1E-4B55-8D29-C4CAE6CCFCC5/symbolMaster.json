@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 979,
+  "changeIdentifier": 1304,
   "do_objectID": "19B14775-ED1E-4B55-8D29-C4CAE6CCFCC5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 151,
     "width": 320,
-    "x": 967,
-    "y": -138
+    "x": -250,
+    "y": 1154
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -32,6 +32,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      637
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -44,8 +45,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "59BFBAF7-12D6-4A4E-832C-BD48E46F0804"
+      "class": "symbolInstance",
+      "id": "283C9923-EF96-4070-9B84-010C13663AF3"
     },
     {
       "class": "text",
@@ -73,6 +74,7 @@
   },
   "name": "component / sort number lockup small v2",
   "nameIsFixed": true,
+  "originalObjectID": "19B14775-ED1E-4B55-8D29-C4CAE6CCFCC5",
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -85,6 +87,11 @@
     "startDecorationType": 0
   },
   "symbolID": "445B4270-8997-43B5-B217-67E11FF394D1",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

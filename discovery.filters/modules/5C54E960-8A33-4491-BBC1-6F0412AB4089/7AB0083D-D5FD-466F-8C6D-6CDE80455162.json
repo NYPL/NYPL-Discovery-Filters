@@ -25,11 +25,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 2,
   "masterInfluenceEdgeMinXPadding": 4,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 2,
   "name": "component / sort number lockup",
   "nameIsFixed": false,
+  "originalObjectID": "7AB0083D-D5FD-466F-8C6D-6CDE80455162",
   "overrideValues": [
   ],
   "overrides": {

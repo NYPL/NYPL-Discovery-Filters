@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 17,
     "width": 399,
-    "x": 225,
-    "y": 33
+    "x": 176,
+    "y": 44
   },
   "glyphBounds": "{{1, 2}, {392, 17}}",
   "heightIsClipped": true,
@@ -36,6 +36,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Displaying 1-9 of 9",
   "nameIsFixed": false,
+  "originalObjectID": "CF6FD8D6-7ECF-4F01-AEBA-096878E7CED2",
   "resizingConstraint": 57,
   "resizingType": 0,
   "rotation": 0,

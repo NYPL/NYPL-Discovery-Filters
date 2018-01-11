@@ -13,17 +13,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 164,
+    "height": 176,
     "width": 886,
-    "x": 213,
-    "y": 523
+    "x": 172,
+    "y": 408
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -35,7 +35,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "2817BD04-CDA5-4363-BCEF-88966CAD933E"
+      "id": "F17A3B48-BB5E-4E04-9DEC-D8EFE0D9215B"
     },
     {
       "class": "text",
@@ -46,16 +46,13 @@
       "id": "6336C3BC-3474-4F9E-A29B-B108E18AA75A"
     },
     {
-      "class": "symbolInstance",
-      "id": "DB465E6E-5CC9-4779-A9E0-B925EAA2007B"
-    },
-    {
       "class": "shapeGroup",
       "id": "F1882AFC-EE01-407E-8D50-80697AD47232"
     }
   ],
   "name": "date",
   "nameIsFixed": true,
+  "originalObjectID": "58DF3024-9846-44A6-8165-786CA1BEFFA9",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

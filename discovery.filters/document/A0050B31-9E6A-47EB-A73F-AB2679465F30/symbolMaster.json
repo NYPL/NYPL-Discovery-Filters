@@ -7,7 +7,7 @@
     "green": 0.9372549019607843,
     "red": 0.9372549019607843
   },
-  "changeIdentifier": 2100,
+  "changeIdentifier": 2111,
   "do_objectID": "A0050B31-9E6A-47EB-A73F-AB2679465F30",
   "exportOptions": {
     "_class": "exportOptions",
@@ -78,6 +78,7 @@
   ],
   "name": "document / Instruction Block",
   "nameIsFixed": true,
+  "originalObjectID": "A0050B31-9E6A-47EB-A73F-AB2679465F30",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -108,6 +109,11 @@
     "startDecorationType": 0
   },
   "symbolID": "CC841E50-05F5-448C-9E58-498DB28E6E53",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

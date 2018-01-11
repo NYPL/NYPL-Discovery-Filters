@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 12350,
+  "changeIdentifier": 15594,
   "do_objectID": "9DDF380F-81D2-48FC-82F9-E900666C1C0F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 738,
+    "height": 647,
     "width": 320,
-    "x": 5746,
-    "y": 55
+    "x": 2519,
+    "y": 69
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -35,7 +35,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -61,10 +61,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "9B15FFF9-CCEE-4716-AB3A-3E2E24E0058E"
-    },
-    {
-      "class": "symbolInstance",
       "id": "C1F53DB8-329D-4E20-BCE0-81B0605CABFA"
     },
     {
@@ -85,11 +81,31 @@
     },
     {
       "class": "symbolInstance",
-      "id": "2FC38DB6-891B-4B45-8442-E19AC2855244"
+      "id": "821D4464-B7CA-4A7F-890D-6B3503D81B0B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A38200A0-C196-4477-BAD8-8BA596A78A0D"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 90.66666666666667,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 3,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 320
+  },
   "name": "modules / search module active set filter",
   "nameIsFixed": true,
+  "originalObjectID": "9DDF380F-81D2-48FC-82F9-E900666C1C0F",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -102,10 +118,19 @@
     "startDecorationType": 0
   },
   "symbolID": "08915AE5-E724-491F-8AE6-3502F8A2FABF",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      29,
+      93,
+      164,
+      209
     ]
   }
 }

@@ -23,14 +23,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "masterInfluenceEdgeMaxXPadding": 1,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "UX Doc/ Content Inventory/ Line Item",
   "nameIsFixed": false,
-  "originalObjectID": "76AE86BF-5EAB-4799-8880-CDF7C32E36F7",
+  "originalObjectID": "12CDE5FF-D578-478A-9A0A-A98D77C70248",
   "overrideValues": [
     {
       "_class": "overrideValue",

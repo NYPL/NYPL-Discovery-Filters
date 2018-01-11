@@ -29,10 +29,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1515,
+    "height": 2204,
     "width": 1814,
     "x": 6238,
-    "y": 2854
+    "y": 2886
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -48,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -84,11 +84,11 @@
     },
     {
       "class": "group",
-      "id": "794881C4-5D53-4240-B99B-3BD8A1C29F4A"
+      "id": "1B50C722-D30B-4F20-B980-1ED30EAC2A10"
     },
     {
       "class": "group",
-      "id": "1B50C722-D30B-4F20-B980-1ED30EAC2A10"
+      "id": "0DF2974B-9675-41E4-84B6-E07F8A95D71D"
     },
     {
       "class": "group",
@@ -139,6 +139,11 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 36,
     "width": 104,
-    "x": 165,
-    "y": 283
+    "x": 153,
+    "y": 324
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,6 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "buttons / cancel filter copy",
   "nameIsFixed": false,
+  "originalObjectID": "C612938B-8AE2-4E8F-B422-FDD08FD86CF4",
   "overrideValues": [
     {
       "_class": "overrideValue",

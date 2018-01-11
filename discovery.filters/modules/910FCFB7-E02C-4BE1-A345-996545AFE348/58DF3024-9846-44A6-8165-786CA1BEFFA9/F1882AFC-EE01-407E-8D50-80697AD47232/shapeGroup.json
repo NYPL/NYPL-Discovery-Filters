@@ -17,7 +17,7 @@
     "height": 2.545977011494253,
     "width": 886,
     "x": 0,
-    "y": 161
+    "y": 173
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -34,6 +34,7 @@
   ],
   "name": "Rectangle 2 Copy 3",
   "nameIsFixed": false,
+  "originalObjectID": "F1882AFC-EE01-407E-8D50-80697AD47232",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

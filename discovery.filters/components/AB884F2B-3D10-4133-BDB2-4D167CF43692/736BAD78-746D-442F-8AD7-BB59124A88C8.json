@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 40,
     "width": 250,
-    "x": 648,
-    "y": 33
+    "x": 851,
+    "y": 32
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,6 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "component /sorting drop down",
   "nameIsFixed": false,
+  "originalObjectID": "736BAD78-746D-442F-8AD7-BB59124A88C8",
   "overrideValues": [
   ],
   "overrides": {

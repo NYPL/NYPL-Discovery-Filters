@@ -19,7 +19,6 @@ I’ve included some possible solutions in the sketch file - would like to hear 
 There’s a prototype up at  https://invis.io/37F89CTM9#/272287523_v3-_1-_start_Copy_2. 
 Up by the logo you’ll see “v3” and “V4” . Click on those to toggle between 2 possible layouts
 
-* _Stop using Keivit we should be moving away from this typeface and strictly using system fonts_
 
 These definitely aren’t final at all, but want us to focus on how it feels to use the page and make sure buttons etc are placed in the right position.
 

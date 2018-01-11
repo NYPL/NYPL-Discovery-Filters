@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1505,
+  "changeIdentifier": 1534,
   "do_objectID": "10BDA102-60F3-42A8-85D5-BFF89770AB1B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -69,6 +69,7 @@
   },
   "name": "component / checkbox text lockup",
   "nameIsFixed": false,
+  "originalObjectID": "10BDA102-60F3-42A8-85D5-BFF89770AB1B",
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -81,6 +82,11 @@
     "startDecorationType": 0
   },
   "symbolID": "B0778F9D-91C2-48C3-BCF9-47051C8C2A49",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

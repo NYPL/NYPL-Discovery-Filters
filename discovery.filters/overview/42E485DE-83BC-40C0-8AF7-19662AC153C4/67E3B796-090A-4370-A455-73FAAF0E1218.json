@@ -13,23 +13,24 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1640,
+    "height": 2368,
     "width": 320,
-    "x": 652,
-    "y": 130
+    "x": 647,
+    "y": 141
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 13,
-  "masterInfluenceEdgeMinYPadding": 13,
+  "masterInfluenceEdgeMaxYPadding": 919,
+  "masterInfluenceEdgeMinXPadding": 4,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "screen / small filter collapsed state",
   "nameIsFixed": false,
+  "originalObjectID": "C749FB80-1F5E-4CE8-BA10-6365D9A48CAA",
   "overrideValues": [
   ],
   "overrides": {

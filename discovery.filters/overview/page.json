@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "artboard",
@@ -75,6 +75,10 @@
     {
       "class": "symbolInstance",
       "id": "3FDBDDA4-0FA8-4A29-ACD3-55F3C4F6D94C"
+    },
+    {
+      "class": "group",
+      "id": "794881C4-5D53-4240-B99B-3BD8A1C29F4A"
     }
   ],
   "name": "overview",
