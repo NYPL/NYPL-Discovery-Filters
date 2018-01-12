@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 40,
+  "changeIdentifier": 46,
   "do_objectID": "6D9808AB-7272-41A5-9C39-4E6F575CC4FA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -58,6 +58,7 @@
   ],
   "name": "component / Refine Search Lockup Medium",
   "nameIsFixed": false,
+  "originalObjectID": "6D9808AB-7272-41A5-9C39-4E6F575CC4FA",
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -70,6 +71,11 @@
     "startDecorationType": 0
   },
   "symbolID": "E8441680-1105-4569-A044-44C4B5E63955",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

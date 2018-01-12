@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -48,10 +48,6 @@
     {
       "class": "text",
       "id": "7508466B-3A78-4A24-97B9-C1D080F27D63"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "90509390-4A2A-4365-BF04-C30205F3BA67"
     }
   ],
   "name": "Date Group",

@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 41,
-    "width": 176,
+    "width": 368,
     "x": 1,
     "y": 61
   },
@@ -46,6 +46,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "994218DC-C03D-4B0D-893F-CFB223EEAE50",
+  "symbolID": "6C57E367-C897-48D4-A0F0-812BA21D0247",
   "verticalSpacing": 0
 }

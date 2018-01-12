@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 8686,
+  "changeIdentifier": 8998,
   "do_objectID": "A38AE35D-6FA1-4531-931D-1D009EFFACCF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 506,
     "width": 1440,
-    "x": 7082,
+    "x": 6577,
     "y": 35
   },
   "hasBackgroundColor": false,
@@ -69,8 +69,12 @@
       "id": "C611C542-89BB-48FB-9F23-24FF9C151B7B"
     },
     {
-      "class": "group",
-      "id": "FEECE17F-5238-4C38-98EA-D616BF3CB2CC"
+      "class": "symbolInstance",
+      "id": "A2725BB3-C90B-433B-9055-F3EDDD2690F4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ABFB17CD-FDA6-48A0-B46C-4D4D18EEB916"
     },
     {
       "class": "symbolInstance",
@@ -87,6 +91,10 @@
     {
       "class": "symbolInstance",
       "id": "A5F7D179-4EDF-4786-ACD5-08ED21207EF3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DAB666C7-3AE5-43E4-A4D8-51CBFAE8251E"
     }
   ],
   "layout": {

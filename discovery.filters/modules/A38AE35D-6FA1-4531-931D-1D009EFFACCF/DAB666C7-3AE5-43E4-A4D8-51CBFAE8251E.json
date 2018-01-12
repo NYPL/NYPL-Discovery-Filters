@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DAB666C7-3AE5-43E4-A4D8-51CBFAE8251E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 155,
+    "x": 448,
+    "y": 287
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "buttons / main filter segemented button copy",
+  "nameIsFixed": false,
+  "originalObjectID": "DAB666C7-3AE5-43E4-A4D8-51CBFAE8251E",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3DAB6431-9F68-4AD4-81C1-960A42835793_stringValue",
+      "value": "1987"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "533FC91F-7FF2-432A-99A9-D5EA5DF12D63_stringValue",
+      "value": "1958"
+    }
+  ],
+  "overrides": {
+    "3DAB6431-9F68-4AD4-81C1-960A42835793": "1987",
+    "533FC91F-7FF2-432A-99A9-D5EA5DF12D63": "1958"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D2EDCBCB-C526-4415-AEAE-8D5D92B14B09",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,97 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 4051,
+  "do_objectID": "6D53A1F3-0437-4B2A-B0C2-83C0DF8987F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 155,
+    "x": 1094,
+    "y": 125
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5F96900D-2F9B-469C-A5DB-CE4824DF6EA2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "799C89B5-5494-4EC6-A924-085352222F34"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DBB9EF9D-B582-4EE9-8341-248CD1ED46BF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3AF31D33-2C60-487D-8D18-C6EBE5514781"
+    },
+    {
+      "class": "text",
+      "id": "533FC91F-7FF2-432A-99A9-D5EA5DF12D63"
+    },
+    {
+      "class": "text",
+      "id": "3DAB6431-9F68-4AD4-81C1-960A42835793"
+    }
+  ],
+  "name": "buttons / main filter segemented button",
+  "nameIsFixed": true,
+  "originalObjectID": "6D53A1F3-0437-4B2A-B0C2-83C0DF8987F4",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D2EDCBCB-C526-4415-AEAE-8D5D92B14B09",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

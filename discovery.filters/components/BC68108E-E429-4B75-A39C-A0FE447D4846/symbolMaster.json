@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 370,
+  "changeIdentifier": 377,
   "do_objectID": "BC68108E-E429-4B75-A39C-A0FE447D4846",
   "exportOptions": {
     "_class": "exportOptions",
@@ -58,6 +58,7 @@
   ],
   "name": "component / date fields lockup",
   "nameIsFixed": false,
+  "originalObjectID": "BC68108E-E429-4B75-A39C-A0FE447D4846",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -70,6 +71,11 @@
     "startDecorationType": 0
   },
   "symbolID": "6C57E367-C897-48D4-A0F0-812BA21D0247",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

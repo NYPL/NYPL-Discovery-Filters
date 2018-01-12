@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 85,
+    "width": 155,
     "x": 8,
     "y": 376
   },
@@ -34,12 +34,20 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "FF9BEEB6-2CFE-43F7-A783-FDB3FF0B5AB1_stringValue",
+      "do_objectID": "7A2697E4-5785-48B3-AFD2-494AE5ECF47A",
+      "overrideName": "533FC91F-7FF2-432A-99A9-D5EA5DF12D63_stringValue",
       "value": "1952"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1E0300BE-4250-4EEC-A21A-6668118298A4",
+      "overrideName": "3DAB6431-9F68-4AD4-81C1-960A42835793_stringValue",
+      "value": "1984"
     }
   ],
   "overrides": {
-    "FF9BEEB6-2CFE-43F7-A783-FDB3FF0B5AB1": "1952"
+    "3DAB6431-9F68-4AD4-81C1-960A42835793": "1984",
+    "533FC91F-7FF2-432A-99A9-D5EA5DF12D63": "1952"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -52,6 +60,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "5CD088F2-1255-4DD1-B6B7-48F46200BB3C",
+  "symbolID": "D2EDCBCB-C526-4415-AEAE-8D5D92B14B09",
   "verticalSpacing": 0
 }

@@ -51,10 +51,19 @@
       "_class": "overrideValue",
       "overrideName": "2965D5DE-66A9-4D4B-AEE3-24C1850E276A/6A3A60A8-4D9C-4A1B-A9DE-3D4B38E83B73_stringValue",
       "value": "Clear all filters"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0B490316-FFB3-49A2-95A2-85D19897200D",
+      "overrideName": "2856208C-0843-46FB-ACD8-BB5FA1744B30/1D60C747-6D4F-473A-B01E-8F9C08B5363B_symbolID",
+      "value": "938771C3-D97C-4D47-88EC-AEFEE82A6515"
     }
   ],
   "overrides": {
     "2856208C-0843-46FB-ACD8-BB5FA1744B30": {
+      "1D60C747-6D4F-473A-B01E-8F9C08B5363B": {
+        "symbolID": "938771C3-D97C-4D47-88EC-AEFEE82A6515"
+      },
       "F54CC122-321A-4C9A-BC4C-0B5B6A69FC9C": {
         "symbolID": "726B4C4B-0AD2-43B5-B941-3D67B7A37B67"
       }

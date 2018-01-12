@@ -16,7 +16,7 @@
     "height": 52,
     "width": 559,
     "x": 104,
-    "y": 208
+    "y": 196
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,6 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "component / Refine Search Lockup Medium",
   "nameIsFixed": false,
+  "originalObjectID": "205F4374-0A22-44AD-9E93-06359FB1B5BB",
   "overrideValues": [
   ],
   "overrides": {
