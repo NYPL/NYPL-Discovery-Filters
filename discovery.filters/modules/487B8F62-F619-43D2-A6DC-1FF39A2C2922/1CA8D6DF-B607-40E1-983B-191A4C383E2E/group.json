@@ -13,9 +13,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 83,
-    "width": 280,
-    "x": 7,
+    "height": 77,
+    "width": 266,
+    "x": 14,
     "y": 174
   },
   "hasClickThrough": false,
@@ -36,6 +36,7 @@
   ],
   "name": "component / Refine Serch & Cancel Group",
   "nameIsFixed": false,
+  "originalObjectID": "1CA8D6DF-B607-40E1-983B-191A4C383E2E",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 482,
+    "height": 645,
     "width": 320,
     "x": 0,
     "y": 60
@@ -25,8 +25,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 2,
-  "masterInfluenceEdgeMinXPadding": 4,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "modules / search module",
   "nameIsFixed": false,
@@ -36,12 +36,12 @@
       "_class": "overrideValue",
       "do_objectID": "E109D4B8-E157-4F9D-B77C-24B57851BF63",
       "overrideName": "705E0310-F7C5-41CD-B80A-7C5B9124354B/5EA61B7A-D9BA-444B-88F5-8FE43A53A27F_stringValue",
-      "value": "Sandanista"
+      "value": "New York Waterways"
     }
   ],
   "overrides": {
     "705E0310-F7C5-41CD-B80A-7C5B9124354B": {
-      "5EA61B7A-D9BA-444B-88F5-8FE43A53A27F": "Sandanista"
+      "5EA61B7A-D9BA-444B-88F5-8FE43A53A27F": "New York Waterways"
     }
   },
   "resizingConstraint": 63,

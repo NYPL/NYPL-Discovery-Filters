@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 377,
+  "changeIdentifier": 505,
   "do_objectID": "BC68108E-E429-4B75-A39C-A0FE447D4846",
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,6 +54,14 @@
     {
       "class": "symbolInstance",
       "id": "DEE1CCD9-C102-457C-BBD2-DFD9B20B93D7"
+    },
+    {
+      "class": "text",
+      "id": "D1C596AE-6B65-435D-930C-0A9C0AE87D7E"
+    },
+    {
+      "class": "text",
+      "id": "DEF03C14-E481-414E-86D0-F2D85AD8F191"
     }
   ],
   "name": "component / date fields lockup",

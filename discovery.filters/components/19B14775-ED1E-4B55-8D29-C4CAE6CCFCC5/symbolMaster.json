@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1304,
+  "changeIdentifier": 1467,
   "do_objectID": "19B14775-ED1E-4B55-8D29-C4CAE6CCFCC5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -59,12 +59,12 @@
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 90.66666666666667,
+    "columnWidth": 74.66666666666667,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 12,
-    "gutterWidth": 16,
+    "gutterWidth": 32,
     "guttersOutside": true,
     "horizontalOffset": 0,
     "isEnabled": true,

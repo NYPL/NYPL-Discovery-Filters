@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 7735,
+  "changeIdentifier": 9066,
   "do_objectID": "5C54E960-8A33-4491-BBC1-6F0412AB4089",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 482,
+    "height": 645,
     "width": 320,
-    "x": 1688,
-    "y": 69
+    "x": 1102,
+    "y": 91
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -70,12 +70,12 @@
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 90.66666666666667,
+    "columnWidth": 75,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 12,
-    "gutterWidth": 16,
+    "gutterWidth": 31.66666666666667,
     "guttersOutside": true,
     "horizontalOffset": 0,
     "isEnabled": true,

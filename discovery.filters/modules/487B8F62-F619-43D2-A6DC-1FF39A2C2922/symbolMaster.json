@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 17719,
+  "changeIdentifier": 19797,
   "do_objectID": "487B8F62-F619-43D2-A6DC-1FF39A2C2922",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1321,
+    "height": 1315,
     "width": 320,
     "x": 2093,
-    "y": 69
+    "y": 78
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -48,10 +48,6 @@
       "id": "A7B4B5EC-E903-4566-9847-B3E2833C8102"
     },
     {
-      "class": "group",
-      "id": "1CA8D6DF-B607-40E1-983B-191A4C383E2E"
-    },
-    {
       "class": "symbolInstance",
       "id": "7E538EB1-0AC0-426E-9AED-73B08D1A06EF"
     },
@@ -66,16 +62,20 @@
     {
       "class": "group",
       "id": "BDF5CD93-C14E-4AA1-9717-85ACA526C91C"
+    },
+    {
+      "class": "group",
+      "id": "1CA8D6DF-B607-40E1-983B-191A4C383E2E"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 91,
+    "columnWidth": 74.66666666666667,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 16,
-    "gutterWidth": 15.66666666666667,
+    "gutterWidth": 32,
     "guttersOutside": true,
     "horizontalOffset": 0,
     "isEnabled": true,

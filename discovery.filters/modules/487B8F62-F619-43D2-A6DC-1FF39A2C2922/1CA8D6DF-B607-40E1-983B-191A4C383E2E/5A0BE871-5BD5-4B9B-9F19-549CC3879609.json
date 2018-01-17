@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 37,
-    "width": 198,
-    "x": 82,
-    "y": 46
+    "width": 188,
+    "x": 0,
+    "y": 40
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,7 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "component / Cancel Apply Lockup",
   "nameIsFixed": false,
-  "originalObjectID": "73D9B679-16AD-424B-A9F5-EB93E6BC97E6",
+  "originalObjectID": "5A0BE871-5BD5-4B9B-9F19-549CC3879609",
   "overrideValues": [
     {
       "_class": "overrideValue",
@@ -60,7 +60,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "C8B39306-4084-4929-B707-E3EBEBE3F843/2856208C-0843-46FB-ACD8-BB5FA1744B30_symbolID",
-      "value": "C52427EC-1E25-4981-AB11-E1AC41BE9C8F"
+      "value": "9D1A84AC-1EC9-4BBA-BF90-06335000A251"
     },
     {
       "_class": "overrideValue",
@@ -69,20 +69,21 @@
     },
     {
       "_class": "overrideValue",
-      "overrideName": "C8B39306-4084-4929-B707-E3EBEBE3F843/2856208C-0843-46FB-ACD8-BB5FA1744B30/4CB2B2D2-9ABA-445F-B210-973C58A6E437_symbolID",
+      "do_objectID": "9BD5DADF-B462-4370-9DFC-787F6A041C31",
+      "overrideName": "C8B39306-4084-4929-B707-E3EBEBE3F843/2856208C-0843-46FB-ACD8-BB5FA1744B30/E2056EBC-B1C3-45CB-B599-6206C4A8E653_symbolID",
       "value": "0C416AB2-A8F5-44A6-B7E5-A62E85A15115"
     }
   ],
   "overrides": {
     "C8B39306-4084-4929-B707-E3EBEBE3F843": {
       "2856208C-0843-46FB-ACD8-BB5FA1744B30": {
-        "4CB2B2D2-9ABA-445F-B210-973C58A6E437": {
-          "symbolID": "0C416AB2-A8F5-44A6-B7E5-A62E85A15115"
-        },
         "A375457B-AF97-4A8D-93A3-4B0DBF0C8607": {
           "symbolID": "51697720-AFA6-42E5-ADBB-8B1E9D8970CA"
         },
-        "symbolID": "C52427EC-1E25-4981-AB11-E1AC41BE9C8F"
+        "E2056EBC-B1C3-45CB-B599-6206C4A8E653": {
+          "symbolID": "0C416AB2-A8F5-44A6-B7E5-A62E85A15115"
+        },
+        "symbolID": "9D1A84AC-1EC9-4BBA-BF90-06335000A251"
       },
       "2965D5DE-66A9-4D4B-AEE3-24C1850E276A": {
         "7AF18B39-A42F-4744-9BC0-AEA22363ED99": "Apply Filters",

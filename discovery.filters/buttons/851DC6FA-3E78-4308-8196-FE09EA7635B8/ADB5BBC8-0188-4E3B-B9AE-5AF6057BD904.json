@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 16,
     "width": 47,
-    "x": 19,
+    "x": 29,
     "y": 16
   },
   "glyphBounds": "{{0, 2}, {46, 12}}",
@@ -37,7 +37,7 @@
   "name": "Search",
   "nameIsFixed": false,
   "originalObjectID": "ADB5BBC8-0188-4E3B-B9AE-5AF6057BD904",
-  "resizingConstraint": 45,
+  "resizingConstraint": 44,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -66,5 +66,5 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

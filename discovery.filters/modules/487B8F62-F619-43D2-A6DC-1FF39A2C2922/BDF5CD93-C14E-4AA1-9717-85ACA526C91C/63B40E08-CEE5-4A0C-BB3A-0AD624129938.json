@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 863,
+    "height": 895,
     "width": 320,
     "x": 0,
-    "y": 4
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -46,6 +46,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "7FDF618E-C952-469F-9EDE-E42B2B678D60",
+  "symbolID": "06C5F547-444B-4912-88F2-A4DDFE0E1F80",
   "verticalSpacing": 0
 }

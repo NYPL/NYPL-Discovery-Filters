@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 994,
+    "height": 1018,
     "width": 1440,
     "x": 0,
     "y": 207
@@ -25,7 +25,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 2,
+  "masterInfluenceEdgeMaxYPadding": 1,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "modules / search module active accordian large",

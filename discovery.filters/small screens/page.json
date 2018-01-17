@@ -38,15 +38,19 @@
     },
     {
       "class": "symbolMaster",
-      "id": "7C76C70F-47D2-4E5C-85DD-A91D902DC50E"
-    },
-    {
-      "class": "symbolMaster",
       "id": "03C6465D-9BB5-41DF-97A2-92239D850382"
     },
     {
       "class": "symbolMaster",
       "id": "A9E8E1E2-15E1-4430-8986-CFE8BA041B15"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0B3DE286-E39B-45B9-BEB4-FCBA39B715D2"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7C76C70F-47D2-4E5C-85DD-A91D902DC50E"
     }
   ],
   "layout": {

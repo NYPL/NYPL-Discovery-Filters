@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 48,
-    "width": 83,
-    "x": 220,
+    "width": 40,
+    "x": 263,
     "y": 0
   },
   "horizontalSpacing": 0,
@@ -35,7 +35,7 @@
   ],
   "overrides": {
   },
-  "resizingConstraint": 63,
+  "resizingConstraint": 62,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -46,6 +46,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "6335286B-0757-4E23-AF1E-820E61EEF00F",
+  "symbolID": "25554917-473B-46AF-BA82-BFCE3C519E12",
   "verticalSpacing": 0
 }

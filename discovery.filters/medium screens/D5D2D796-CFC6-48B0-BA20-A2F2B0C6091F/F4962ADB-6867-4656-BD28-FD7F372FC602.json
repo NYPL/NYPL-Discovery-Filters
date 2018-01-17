@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 960,
+    "height": 1076,
     "width": 768,
     "x": 0,
     "y": 60
@@ -25,15 +25,24 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 4,
-  "masterInfluenceEdgeMaxYPadding": 2,
+  "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 1,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "modules / search module",
   "nameIsFixed": true,
   "originalObjectID": "F4962ADB-6867-4656-BD28-FD7F372FC602",
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0F617F81-CFE2-40C4-B433-DFD806791F5C",
+      "overrideName": "1D950316-6E5F-44DE-9EEB-EADBC1995561/EE7318E3-A064-4650-B785-0DEB0C90BB6C_stringValue",
+      "value": "New York Waterways"
+    }
   ],
   "overrides": {
+    "1D950316-6E5F-44DE-9EEB-EADBC1995561": {
+      "EE7318E3-A064-4650-B785-0DEB0C90BB6C": "New York Waterways"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

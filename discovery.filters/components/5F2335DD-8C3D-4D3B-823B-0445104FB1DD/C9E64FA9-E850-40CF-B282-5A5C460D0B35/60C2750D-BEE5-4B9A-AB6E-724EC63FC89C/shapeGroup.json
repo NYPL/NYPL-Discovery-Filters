@@ -15,7 +15,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 48,
-    "width": 135,
+    "width": 175,
     "x": 0,
     "y": 0
   },
@@ -35,7 +35,7 @@
   "name": "Mask",
   "nameIsFixed": false,
   "originalObjectID": "60C2750D-BEE5-4B9A-AB6E-724EC63FC89C",
-  "resizingConstraint": 63,
+  "resizingConstraint": 59,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 48,
-    "width": 305,
-    "x": 7,
+    "width": 289,
+    "x": 15,
     "y": 114
   },
   "horizontalSpacing": 0,
@@ -35,11 +35,11 @@
     {
       "_class": "overrideValue",
       "overrideName": "5EA61B7A-D9BA-444B-88F5-8FE43A53A27F_stringValue",
-      "value": "el mozote"
+      "value": "New York Waterways"
     }
   ],
   "overrides": {
-    "5EA61B7A-D9BA-444B-88F5-8FE43A53A27F": "el mozote"
+    "5EA61B7A-D9BA-444B-88F5-8FE43A53A27F": "New York Waterways"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

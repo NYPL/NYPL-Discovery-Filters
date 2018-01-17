@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1916,
+  "changeIdentifier": 2293,
   "do_objectID": "851DC6FA-3E78-4308-8196-FE09EA7635B8",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,8 +22,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 48,
-    "width": 83,
-    "x": 1401,
+    "width": 129,
+    "x": 1357,
     "y": -113
   },
   "hasBackgroundColor": false,
@@ -50,6 +50,10 @@
     {
       "class": "text",
       "id": "ADB5BBC8-0188-4E3B-B9AE-5AF6057BD904"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "580A1044-ED8A-4010-81B0-147646C26B13"
     }
   ],
   "name": "buttons / omni-search button",

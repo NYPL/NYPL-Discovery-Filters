@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 28,
-    "width": 280,
+    "width": 266,
     "x": 0,
     "y": 0
   },
@@ -30,7 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "text symbols / Refine your search",
   "nameIsFixed": true,
-  "originalObjectID": "B8680BB6-BECF-4D2F-A319-10DCE64B1141",
+  "originalObjectID": "4350CF4C-8447-4522-AFFA-CFACF5A9A671",
   "overrideValues": [
   ],
   "overrides": {

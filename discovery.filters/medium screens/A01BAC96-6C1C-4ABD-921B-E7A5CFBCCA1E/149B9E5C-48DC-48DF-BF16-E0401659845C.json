@@ -16,7 +16,7 @@
     "height": 383,
     "width": 768,
     "x": 0,
-    "y": 60
+    "y": 62
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -32,8 +32,17 @@
   "nameIsFixed": true,
   "originalObjectID": "149B9E5C-48DC-48DF-BF16-E0401659845C",
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C42ABB5E-7D7C-4E60-B313-9B379B6C4BFC",
+      "overrideName": "762ED0A8-428A-4779-B491-4FDCC7CC0982/EE7318E3-A064-4650-B785-0DEB0C90BB6C_stringValue",
+      "value": "New York Waterways"
+    }
   ],
   "overrides": {
+    "762ED0A8-428A-4779-B491-4FDCC7CC0982": {
+      "EE7318E3-A064-4650-B785-0DEB0C90BB6C": "New York Waterways"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

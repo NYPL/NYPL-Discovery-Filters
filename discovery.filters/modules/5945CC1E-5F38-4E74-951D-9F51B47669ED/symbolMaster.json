@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1078,
+  "changeIdentifier": 3110,
   "do_objectID": "5945CC1E-5F38-4E74-951D-9F51B47669ED",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 356,
     "width": 768,
-    "x": 767,
-    "y": 69
+    "x": 249,
+    "y": 78
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,14 +52,29 @@
       "id": "C9482E98-C11F-4C92-9EB1-AAFBC02F1BE0"
     },
     {
-      "class": "symbolInstance",
-      "id": "C96ED423-954E-4AE3-81AC-C2AC0622BE7C"
-    },
-    {
       "class": "text",
       "id": "FE22F64B-A7A3-4344-BD9E-1DAF3063A4EB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DABC1FEE-4987-4F8E-9140-E674B7B6E275"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 80,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 8,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 768
+  },
   "name": "modules / search module init",
   "nameIsFixed": false,
   "originalObjectID": "5945CC1E-5F38-4E74-951D-9F51B47669ED",
