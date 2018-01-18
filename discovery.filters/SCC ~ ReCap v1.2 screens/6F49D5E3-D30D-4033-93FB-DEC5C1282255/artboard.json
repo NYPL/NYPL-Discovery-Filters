@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1090,
+    "height": 1057,
     "width": 320,
     "x": 5151,
     "y": 4496
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,14 +39,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "81B59279-B8FA-4591-885F-46A3C6051573"
     }
   ],
-  "name": "SC Home Screen",
+  "name": "SC Home Screen Submission Compressed",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

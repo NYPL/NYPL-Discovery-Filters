@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 2453,
     "width": 320,
-    "x": 6026,
+    "x": 5977,
     "y": 4496
   },
   "hasBackgroundColor": false,
@@ -39,14 +39,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "5C1382E9-BF92-45F6-8C9A-6BF6453274FB"
     }
   ],
-  "name": "SC Active Filters",
+  "name": "SC Active Filters Submission Compressed",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
