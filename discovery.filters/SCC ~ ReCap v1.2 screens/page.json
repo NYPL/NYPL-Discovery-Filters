@@ -1,0 +1,66 @@
+{
+  "_class": "page",
+  "do_objectID": "02613AB6-D9D7-4AE3-A970-B3B0EC602CB9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -794,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "6F49D5E3-D30D-4033-93FB-DEC5C1282255"
+    },
+    {
+      "class": "artboard",
+      "id": "C991F078-857E-4ADC-B614-8C45C27B67C2"
+    },
+    {
+      "class": "artboard",
+      "id": "694469A3-177D-4E1C-9F43-DECBC49175B5"
+    }
+  ],
+  "name": "SCC ~ ReCap v1.2 screens",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -477,
+    "guides": [
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 {
   "_class": "page",
-  "do_objectID": "17A04E6D-952A-41D9-8E35-A9F7578B4744",
+  "do_objectID": "CF8984DB-6CEF-4F07-B06C-1CC630EE6F5F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -34,15 +34,15 @@
   "layers": [
     {
       "class": "symbolMaster",
-      "id": "06B1D5CF-B4C7-4BC8-90AB-C530A7F6AA10"
+      "id": "A01BAC96-6C1C-4ABD-921B-E7A5CFBCCA1E"
     },
     {
       "class": "symbolMaster",
-      "id": "186F08AA-F31F-444D-B8D1-D8410874F3BC"
+      "id": "D5D2D796-CFC6-48B0-BA20-A2F2B0C6091F"
     },
     {
       "class": "symbolMaster",
-      "id": "A74CF06E-70EA-4083-AEBA-834ECD13B86B"
+      "id": "0EF8ACAD-42FC-4A2D-A9F1-110922BC2E50"
     }
   ],
   "layout": {
@@ -55,12 +55,12 @@
     "gutterWidth": 29,
     "guttersOutside": false,
     "horizontalOffset": 101,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 9,
     "rowHeightMultiplication": 5,
     "totalWidth": 1313
   },
-  "name": "large screens",
+  "name": "medium screen symbols",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

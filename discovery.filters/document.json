@@ -66564,11 +66564,12 @@
     "version": 97
   },
   "pages": [
-    "primary",
+    "SCC ~ ReCap v1.0 screens",
+    "SCC ~ ReCap v1.2 screens",
     "overview",
-    "large screens",
-    "medium screens",
-    "small screens",
+    "large screen symbols",
+    "medium screen symbols",
+    "small screens symbols",
     "modules",
     "components",
     "buttons",
