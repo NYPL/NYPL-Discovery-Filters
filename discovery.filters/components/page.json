@@ -159,6 +159,10 @@
     {
       "class": "symbolMaster",
       "id": "6D9808AB-7272-41A5-9C39-4E6F575CC4FA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "24D27E38-C3F9-4876-AB8C-EBBDCECAAEDD"
     }
   ],
   "name": "components",

@@ -15,11 +15,11 @@
     "constrainProportions": true,
     "height": 26,
     "width": 26,
-    "x": 73,
+    "x": 68,
     "y": 11
   },
   "horizontalSpacing": 0,
-  "isFlippedHorizontal": false,
+  "isFlippedHorizontal": true,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,

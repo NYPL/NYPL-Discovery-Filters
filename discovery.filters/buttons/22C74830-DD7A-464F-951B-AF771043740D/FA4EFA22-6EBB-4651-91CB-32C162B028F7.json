@@ -19,7 +19,7 @@
     "y": 11
   },
   "horizontalSpacing": 0,
-  "isFlippedHorizontal": false,
+  "isFlippedHorizontal": true,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
