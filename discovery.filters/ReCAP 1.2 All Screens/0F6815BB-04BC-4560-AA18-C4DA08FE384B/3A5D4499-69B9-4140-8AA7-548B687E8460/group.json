@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "3A5D4499-69B9-4140-8AA7-548B687E8460",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 3181,
+    "width": 768,
+    "x": -1,
+    "y": 1023
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F69892B2-8340-44D6-A369-4FDAD4627C16"
+    },
+    {
+      "class": "bitmap",
+      "id": "356E0D54-DB61-4DD4-8B83-F6B886368701"
+    }
+  ],
+  "name": "Screenshot-2018-1-3 Shared Collection Catalog NYPL(1) Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "3A5D4499-69B9-4140-8AA7-548B687E8460",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

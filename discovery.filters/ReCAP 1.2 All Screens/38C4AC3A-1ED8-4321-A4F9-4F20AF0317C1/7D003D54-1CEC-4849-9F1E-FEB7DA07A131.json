@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7D003D54-1CEC-4849-9F1E-FEB7DA07A131",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 168,
+    "width": 320,
+    "x": 0,
+    "y": 185
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "component /  search fragmented multi small screen",
+  "nameIsFixed": false,
+  "originalObjectID": "7D003D54-1CEC-4849-9F1E-FEB7DA07A131",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8B4F7D98-793C-43C4-BEAD-65DA22CDF4D5_stringValue",
+      "value": "New York Waterways"
+    }
+  ],
+  "overrides": {
+    "8B4F7D98-793C-43C4-BEAD-65DA22CDF4D5": "New York Waterways"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "10028F72-AA1E-41F3-A92A-8CEE15EE3335",
+  "verticalSpacing": 0
+}

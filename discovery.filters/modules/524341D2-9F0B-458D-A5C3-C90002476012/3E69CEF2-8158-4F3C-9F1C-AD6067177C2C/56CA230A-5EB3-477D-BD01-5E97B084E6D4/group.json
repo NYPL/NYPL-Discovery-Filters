@@ -13,8 +13,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 121,
-    "width": 561,
+    "height": 95,
+    "width": 548,
     "x": 0,
     "y": 0
   },
@@ -48,15 +48,10 @@
     {
       "class": "text",
       "id": "7527D4C0-916A-4541-AC3F-63DA804517AA"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "ABB3ACFE-7051-4DFB-A46D-5D8B651C2384"
     }
   ],
   "name": "Format Group",
   "nameIsFixed": true,
-  "originalObjectID": "56CA230A-5EB3-477D-BD01-5E97B084E6D4",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

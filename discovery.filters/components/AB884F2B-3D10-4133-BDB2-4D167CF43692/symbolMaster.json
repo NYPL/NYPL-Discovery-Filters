@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1655,
+  "changeIdentifier": 2416,
   "do_objectID": "AB884F2B-3D10-4133-BDB2-4D167CF43692",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 99,
+    "height": 64,
     "width": 1440,
-    "x": 161,
-    "y": 1467
+    "x": -1086,
+    "y": 965
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -43,7 +43,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -73,7 +73,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1440
   },
-  "name": "component / sort number lockup large v2",
+  "name": "component / large / sort number lockup",
   "nameIsFixed": true,
   "originalObjectID": "AB884F2B-3D10-4133-BDB2-4D167CF43692",
   "resizesContent": false,
@@ -97,8 +97,6 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      72,
-      37
     ]
   }
 }

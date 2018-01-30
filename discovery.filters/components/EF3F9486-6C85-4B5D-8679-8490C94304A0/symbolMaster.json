@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3152,
+  "changeIdentifier": 3395,
   "do_objectID": "EF3F9486-6C85-4B5D-8679-8490C94304A0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 48,
     "width": 303,
-    "x": 161,
-    "y": 77
+    "x": -1449,
+    "y": -565
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -87,7 +87,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 320
   },
-  "name": "component / search multiple type",
+  "name": "component / small / search multiple type",
   "nameIsFixed": true,
   "originalObjectID": "EF3F9486-6C85-4B5D-8679-8490C94304A0",
   "resizesContent": true,

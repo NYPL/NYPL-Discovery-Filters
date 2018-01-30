@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "038EC760-4AB7-4000-91DF-CCC71AD4E5F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 556,
+    "width": 320,
+    "x": 0,
+    "y": 60
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 4,
+  "name": "modules / small / search results v2",
+  "nameIsFixed": false,
+  "originalObjectID": "038EC760-4AB7-4000-91DF-CCC71AD4E5F6",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7BF9110E-6B10-487B-B2B0-E7FA74F810DF",
+      "overrideName": "68113067-C318-4E89-BCEF-6FD21F3C1A70/8B4F7D98-793C-43C4-BEAD-65DA22CDF4D5_stringValue",
+      "value": "New York Waterways"
+    }
+  ],
+  "overrides": {
+    "68113067-C318-4E89-BCEF-6FD21F3C1A70": {
+      "8B4F7D98-793C-43C4-BEAD-65DA22CDF4D5": "New York Waterways"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "014648BA-74B6-40C1-943C-DE2844D3154D",
+  "verticalSpacing": 0
+}

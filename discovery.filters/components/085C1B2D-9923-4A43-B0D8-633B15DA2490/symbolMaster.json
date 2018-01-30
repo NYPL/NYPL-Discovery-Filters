@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1102,
+  "changeIdentifier": 2083,
   "do_objectID": "085C1B2D-9923-4A43-B0D8-633B15DA2490",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 168,
     "width": 320,
-    "x": 930,
-    "y": 91
+    "x": -1457,
+    "y": -339
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -75,7 +75,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 320
   },
-  "name": "component /  search fragmented multi small screen",
+  "name": "component /  small / search fragmented multi",
   "nameIsFixed": true,
   "originalObjectID": "085C1B2D-9923-4A43-B0D8-633B15DA2490",
   "resizesContent": false,

@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 99,
-    "width": 769,
+    "height": 64,
+    "width": 768,
     "x": 0,
-    "y": 0
+    "y": 1
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -25,9 +25,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 2,
+  "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 2,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "component / sort background v2",
   "nameIsFixed": false,
   "originalObjectID": "174D9354-85A6-468E-9E29-4B1A2F5EBECC",

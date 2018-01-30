@@ -62,11 +62,31 @@
     },
     {
       "class": "symbolMaster",
+      "id": "42DBDE86-9A47-49C1-B8A1-B577604EA68D"
+    },
+    {
+      "class": "symbolMaster",
       "id": "833B039B-AB92-48B0-B49E-9D222F9F514F"
     },
     {
       "class": "symbolMaster",
       "id": "9B70A849-4C55-4B07-A6D1-B95F605E9078"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1E33A2E2-1ADA-495A-99C9-ED24F0DD16E0"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "AF388A67-CE66-4FC1-B18A-CBE0AF9B0E46"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "820753E3-1BA4-4586-A00A-7DFD731DDFD9"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F12308A9-710B-4B0D-B13E-C2E3E309B5B0"
     }
   ],
   "name": "colors",

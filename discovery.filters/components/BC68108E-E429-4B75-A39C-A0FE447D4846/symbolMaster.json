@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 548,
+  "changeIdentifier": 996,
   "do_objectID": "BC68108E-E429-4B75-A39C-A0FE447D4846",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,9 +22,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 41,
-    "width": 294,
-    "x": 1090,
-    "y": 429
+    "width": 326,
+    "x": -2375,
+    "y": -428
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -52,16 +52,16 @@
       "id": "DB465E6E-5CC9-4779-A9E0-B925EAA2007B"
     },
     {
-      "class": "symbolInstance",
-      "id": "DEE1CCD9-C102-457C-BBD2-DFD9B20B93D7"
-    },
-    {
       "class": "text",
       "id": "D1C596AE-6B65-435D-930C-0A9C0AE87D7E"
     },
     {
       "class": "text",
       "id": "DEF03C14-E481-414E-86D0-F2D85AD8F191"
+    },
+    {
+      "class": "text",
+      "id": "3E45AA95-A2B4-432A-A0AD-1C599DC5B81B"
     }
   ],
   "name": "component / date fields lockup",
@@ -88,6 +88,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      25
     ]
   }
 }

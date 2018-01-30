@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 99,
+    "height": 64,
     "width": 1440,
     "x": 0,
     "y": 0
@@ -25,9 +25,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 2,
+  "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 2,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "component / sort background v2",
   "nameIsFixed": false,
   "originalObjectID": "FE8DDB4F-DC7F-4161-BCE5-B6704651EE71",

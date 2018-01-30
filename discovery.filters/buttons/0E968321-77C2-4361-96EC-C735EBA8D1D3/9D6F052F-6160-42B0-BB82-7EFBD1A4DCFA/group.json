@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 149,
+    "width": 136,
     "x": 0,
     "y": 0
   },
@@ -36,7 +36,6 @@
   ],
   "name": "basic colors / Library Red D0343A",
   "nameIsFixed": false,
-  "originalObjectID": "9D6F052F-6160-42B0-BB82-7EFBD1A4DCFA",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

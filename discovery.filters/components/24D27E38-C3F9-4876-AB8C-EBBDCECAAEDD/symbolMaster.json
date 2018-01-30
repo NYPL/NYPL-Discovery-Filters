@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 286,
+  "changeIdentifier": 738,
   "do_objectID": "24D27E38-C3F9-4876-AB8C-EBBDCECAAEDD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 244,
+    "height": 241,
     "width": 320,
-    "x": 1089,
-    "y": 640
+    "x": -1449,
+    "y": 1152
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -95,8 +95,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 320
   },
-  "name": "component / date fields small screen",
-  "nameIsFixed": false,
+  "name": "component / small / date fields",
+  "nameIsFixed": true,
   "originalObjectID": "24D27E38-C3F9-4876-AB8C-EBBDCECAAEDD",
   "resizesContent": false,
   "resizingConstraint": 63,

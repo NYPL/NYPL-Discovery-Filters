@@ -46,18 +46,6 @@
     },
     {
       "class": "symbolMaster",
-      "id": "1E33A2E2-1ADA-495A-99C9-ED24F0DD16E0"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "AF388A67-CE66-4FC1-B18A-CBE0AF9B0E46"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "820753E3-1BA4-4586-A00A-7DFD731DDFD9"
-    },
-    {
-      "class": "symbolMaster",
       "id": "1B380AB3-DDF2-4BFB-A434-8C2A39252075"
     },
     {
@@ -110,7 +98,7 @@
     },
     {
       "class": "symbolMaster",
-      "id": "4A9FAD2D-32FD-4807-9C4C-F21918321AC9"
+      "id": "D45B05DC-33B3-4595-A6EA-B4AA5DA2C4F0"
     },
     {
       "class": "symbolMaster",
@@ -118,15 +106,7 @@
     },
     {
       "class": "symbolMaster",
-      "id": "F92EDD31-C623-4049-B8D6-BEB9F105CE7F"
-    },
-    {
-      "class": "symbolMaster",
       "id": "8923FAF3-58A9-4B1F-9C49-73CFACE1F98C"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "037619E2-D410-4D30-8819-D0E4EB581F47"
     },
     {
       "class": "symbolMaster",
@@ -142,10 +122,6 @@
     },
     {
       "class": "symbolMaster",
-      "id": "F12308A9-710B-4B0D-B13E-C2E3E309B5B0"
-    },
-    {
-      "class": "symbolMaster",
       "id": "BC68108E-E429-4B75-A39C-A0FE447D4846"
     },
     {
@@ -154,7 +130,11 @@
     },
     {
       "class": "symbolMaster",
-      "id": "A34EF130-ABF2-4433-9BE4-2C8B27BE1B26"
+      "id": "75ABF733-E031-4161-B661-97D508FAB301"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3A8EFD71-D454-4801-851E-70331C8B8AFB"
     },
     {
       "class": "symbolMaster",
@@ -163,6 +143,22 @@
     {
       "class": "symbolMaster",
       "id": "24D27E38-C3F9-4876-AB8C-EBBDCECAAEDD"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9B7D3388-6F91-4EBF-889F-2433ACB6E132"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "985B15B0-105A-403E-9229-E2B8F4C0A482"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "98A0086E-466F-4A9E-8F8D-D6A6AEAA6ED9"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "5DAED617-D02F-4DE2-851A-42C13BD9C259"
     }
   ],
   "name": "components",

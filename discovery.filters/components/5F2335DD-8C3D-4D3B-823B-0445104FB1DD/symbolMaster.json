@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4300,
+  "changeIdentifier": 4619,
   "do_objectID": "5F2335DD-8C3D-4D3B-823B-0445104FB1DD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 48,
     "width": 303,
-    "x": 536,
-    "y": 77
+    "x": -1449,
+    "y": -476
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -87,7 +87,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 320
   },
-  "name": "component / search multiple type v2",
+  "name": "component / small / search multiple type v2",
   "nameIsFixed": true,
   "originalObjectID": "5F2335DD-8C3D-4D3B-823B-0445104FB1DD",
   "resizesContent": true,

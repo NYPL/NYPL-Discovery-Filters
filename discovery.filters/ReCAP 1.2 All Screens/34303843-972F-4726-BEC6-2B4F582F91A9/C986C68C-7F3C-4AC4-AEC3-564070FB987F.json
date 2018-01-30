@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C986C68C-7F3C-4AC4-AEC3-564070FB987F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 149,
+    "width": 768,
+    "x": 166,
+    "y": 655
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "component / date fields medium screen",
+  "nameIsFixed": false,
+  "originalObjectID": "C986C68C-7F3C-4AC4-AEC3-564070FB987F",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1150C41E-4704-453E-812A-0B91B1F4A8A1",
+      "overrideName": "531A667A-AA76-475A-802B-268D9C9E589F/DEF03C14-E481-414E-86D0-F2D85AD8F191_stringValue",
+      "value": "Year"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FCE48F0E-91B0-4978-A55B-4142A5595C53",
+      "overrideName": "531A667A-AA76-475A-802B-268D9C9E589F/D1C596AE-6B65-435D-930C-0A9C0AE87D7E_stringValue",
+      "value": "Year"
+    }
+  ],
+  "overrides": {
+    "531A667A-AA76-475A-802B-268D9C9E589F": {
+      "D1C596AE-6B65-435D-930C-0A9C0AE87D7E": "Year",
+      "DEF03C14-E481-414E-86D0-F2D85AD8F191": "Year"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FC4525DC-8987-44EF-9D45-BD14D757E706",
+  "verticalSpacing": 0
+}

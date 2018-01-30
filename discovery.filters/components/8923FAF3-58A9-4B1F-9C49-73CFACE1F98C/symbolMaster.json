@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1294,
+  "changeIdentifier": 1896,
   "do_objectID": "8923FAF3-58A9-4B1F-9C49-73CFACE1F98C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 98,
+    "height": 66,
     "width": 769,
-    "x": 161,
-    "y": 1144
+    "x": -1086,
+    "y": 829
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -71,7 +71,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 768
   },
-  "name": "component / sort number lockup medium v2",
+  "name": "component / medium / sort number lockup",
   "nameIsFixed": true,
   "originalObjectID": "8923FAF3-58A9-4B1F-9C49-73CFACE1F98C",
   "resizesContent": false,
@@ -95,8 +95,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      68,
-      29
+      68
     ]
   }
 }

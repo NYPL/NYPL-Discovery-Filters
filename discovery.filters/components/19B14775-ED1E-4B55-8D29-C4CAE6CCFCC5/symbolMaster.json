@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1467,
+  "changeIdentifier": 1976,
   "do_objectID": "19B14775-ED1E-4B55-8D29-C4CAE6CCFCC5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 151,
+    "height": 113,
     "width": 320,
-    "x": -250,
-    "y": 1154
+    "x": -1457,
+    "y": 829
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,7 +42,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -72,10 +72,10 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 320
   },
-  "name": "component / sort number lockup small v2",
+  "name": "component / small / sort number lockup",
   "nameIsFixed": true,
   "originalObjectID": "19B14775-ED1E-4B55-8D29-C4CAE6CCFCC5",
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

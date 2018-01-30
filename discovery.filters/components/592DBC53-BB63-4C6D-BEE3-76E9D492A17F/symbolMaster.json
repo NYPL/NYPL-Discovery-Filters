@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1136,
+  "changeIdentifier": 1823,
   "do_objectID": "592DBC53-BB63-4C6D-BEE3-76E9D492A17F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 144,
+    "height": 113,
     "width": 320,
-    "x": -840,
-    "y": -147
+    "x": -1829,
+    "y": 396
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -54,10 +54,6 @@
     {
       "class": "symbolInstance",
       "id": "73936299-D5B8-470C-A636-B0B770248A99"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3A5DED25-59B2-4969-A34C-25563EEA0148"
     }
   ],
   "layout": {
@@ -75,8 +71,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 320
   },
-  "name": "component / Refine Search Lockup",
-  "nameIsFixed": false,
+  "name": "component / small / Refine Search Lockup",
+  "nameIsFixed": true,
   "originalObjectID": "592DBC53-BB63-4C6D-BEE3-76E9D492A17F",
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -99,6 +95,9 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      17,
+      61,
+      41
     ]
   }
 }

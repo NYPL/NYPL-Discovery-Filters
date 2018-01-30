@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "650DFD24-691D-41E6-8CB1-408347214EEC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 148,
+    "width": 320,
+    "x": 0,
+    "y": 175
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2A49B078-50FC-4C34-9D6B-845CB83B7D2F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "78726649-825D-403F-9D74-FFCF830384B6"
+    }
+  ],
+  "name": "component / Refine Serch & Cancel Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
